@@ -1,0 +1,1119 @@
+[ 2016-11-26T13:17:06+08:00 ] 112.90.82.218 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-11-26T13:17:15+08:00 ] 61.151.218.119 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+
+[ 2016-11-26T13:19:26+08:00 ] 39.188.54.27 /admin/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载控制器:Index.php
+
+[ 2016-11-26T13:51:35+08:00 ] 120.25.103.140 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+
+[ 2016-11-26T14:52:32+08:00 ] 183.157.160.218 /admin/Users/?_=1480143152317
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-11-26T14:52:34+08:00 ] 183.157.160.218 /admin/Users/add_users?_=1480143154481
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2016-11-26T14:52:51+08:00 ] 183.157.160.218 /admin/Users/add_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `name` = '谭昌卫' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ckanem /var/www/html/Phebe/Application/Admin/Controller/UsersController.class.php 第 81 行.
+SQL: INSERT INTO `p_users` (`name`,`mobile`,`sex`,`type`,`create_time`,`status`) VALUES ('谭昌卫','15669023132','1','1','1480143171','1') [ RunTime:0.0048s ]
+
+[ 2016-11-26T14:52:51+08:00 ] 183.157.160.218 /admin/Users/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003512s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-11-26T14:52:55+08:00 ] 183.157.160.218 /admin/Course/?_=1480143175622
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_course` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_course` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_course` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_course` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2016-11-26T14:52:56+08:00 ] 183.157.160.218 /admin/Agency/?_=1480143176712
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-11-26T15:07:18+08:00 ] 183.157.160.218 /admin/Agency/?_=1480144038419
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-11-26T15:07:18+08:00 ] 183.157.160.218 /admin/Agency/?_=1480144038602
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2016-11-26T15:07:25+08:00 ] 183.157.160.218 /admin/Agency/add_agency?_=1480144045187
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 4 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 2 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-11-26T15:07:52+08:00 ] 183.157.160.218 /admin/Agency/add_agency
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: INSERT INTO `p_agency` (`ag_id`,`boss`,`reception`,`name`,`start_time`,`end_time`,`create_time`,`status`) VALUES ('3245','4','2','杭州菲比1','54420','72420','1480144072','1') [ RunTime:0.0035s ]
+
+[ 2016-11-26T15:07:52+08:00 ] 183.157.160.218 /admin/Agency/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-11-26T15:07:54+08:00 ] 183.157.160.218 /admin/Agency/add_agency?_=1480144074164
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 4 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 2 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-26T15:08:11+08:00 ] 183.157.160.218 /admin/Agency/add_agency
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: INSERT INTO `p_agency` (`ag_id`,`boss`,`reception`,`name`,`start_time`,`end_time`,`create_time`,`status`) VALUES ('3245','4','2','杭州菲比2','54480','72480','1480144091','1') [ RunTime:0.0030s ]
+
+[ 2016-11-26T15:08:11+08:00 ] 183.157.160.218 /admin/Agency/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-11-26T15:49:33+08:00 ] 183.157.160.218 /admin/Agency/edit_agency?id=3&_=1480146573110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_agency` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 4 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `type` = 2 AND `status` = 1 ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-11-26T15:53:16+08:00 ] 183.157.160.218 /admin/Agency/?_=1480146796121
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_agency` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_agency` WHERE `name` LIKE '%%' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `p_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-11-26T16:28:20+08:00 ] 183.157.160.218 /admin/Users/?_=1480148900555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-11-26T16:28:21+08:00 ] 183.157.160.218 /admin/Users/?_=1480148901023
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-11-26T16:28:36+08:00 ] 183.157.160.218 /admin/Users/?_=1480148915988
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-11-26T16:28:37+08:00 ] 183.157.160.218 /admin/Users/add_users?_=1480148917027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2016-11-26T16:29:00+08:00 ] 183.157.160.218 /admin/Users/add_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `name` = '周龙飞' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ckanem /var/www/html/Phebe/Application/Admin/Controller/UsersController.class.php 第 81 行.
+SQL: INSERT INTO `p_users` (`name`,`mobile`,`sex`,`type`,`create_time`,`status`) VALUES ('周龙飞','15638179576','1','1','1480148940','1') [ RunTime:0.0046s ]
+
+[ 2016-11-26T16:29:00+08:00 ] 183.157.160.218 /admin/Users/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-11-26T16:48:04+08:00 ] 183.157.160.218 /admin/Users/?_=1480150084083
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-11-26T16:48:05+08:00 ] 183.157.160.218 /admin/Users/add_users?_=1480150085122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-11-26T16:48:38+08:00 ] 183.157.160.218 /admin/Users/add_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `name` = '飘飘' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ckanem /var/www/html/Phebe/Application/Admin/Controller/UsersController.class.php 第 81 行.
+SQL: INSERT INTO `p_users` (`name`,`mobile`,`sex`,`type`,`create_time`,`status`) VALUES ('飘飘','18768151035','1','1','1480150118','1') [ RunTime:0.0029s ]
+
+[ 2016-11-26T16:48:38+08:00 ] 183.157.160.218 /admin/Users/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2016-11-26T17:31:30+08:00 ] 183.157.160.218 /admin/wechat/?_=1480152689175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT count(*) AS cnt FROM `p_wechat_menu` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p_wechat_menu` ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-11-26T17:31:31+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18&_=1480152691610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 17 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2016-11-26T17:31:37+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480152697' WHERE `menu_id` = 18 [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 41 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 54 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 55 行.
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 0 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 17 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-26T17:31:37+08:00 ] 183.157.160.218 /admin/wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_wechat_menu` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-11-26T17:32:35+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18&_=1480152755171
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 17 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-11-26T17:32:37+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480152756' WHERE `menu_id` = 18 [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 41 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 54 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 55 行.
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 0 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 17 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-26T17:35:53+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18&_=1480152953050
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 17 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003106s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2016-11-26T17:35:56+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480152956' WHERE `menu_id` = 18 [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 41 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 54 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 55 行.
+
+[ 2016-11-26T17:36:39+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480152999' WHERE `menu_id` = 18 [ RunTime:0.0038s ]
+
+[ 2016-11-26T17:36:58+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480153018' WHERE `menu_id` = 18 [ RunTime:0.0031s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 42 行.
+
+[ 2016-11-26T17:37:23+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480153043' WHERE `menu_id` = 18 [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 41 行.
+
+[ 2016-11-26T17:38:08+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480153088' WHERE `menu_id` = 18 [ RunTime:0.0042s ]
+
+[ 2016-11-26T17:38:59+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18&_=1480153139545
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 17 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2016-11-26T17:39:01+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0003s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480153141' WHERE `menu_id` = 18 [ RunTime:0.0038s ]
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 54 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Phebe/Application/Admin/Controller/WechatBaseController.class.php 第 55 行.
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 0 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `fid` = 17 AND `status` = 1 ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-26T17:39:01+08:00 ] 183.157.160.218 /admin/wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_wechat_menu` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-11-26T17:39:32+08:00 ] 183.157.160.218 /admin/wechat/?_=1480153171915
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_wechat_menu` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` ORDER BY fid ASC,sort ASC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+NOTIC: [8] Undefined index: id /var/www/html/Phebe/Application/Runtime/Cache/Admin/4cfe315e2ea69dcf93d6956ecf906a2a.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-11-26T17:39:34+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18&_=1480153174027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 17 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-11-26T17:40:19+08:00 ] 183.157.160.218 /admin/Wechat/edit_menu?id=18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `p_wechat_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_menu` WHERE `menu_id` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `menu_id` FROM `p_wechat_menu` WHERE `fid` = 17 AND `menu_id` <> 18  [ RunTime:0.0002s ]
+SQL: UPDATE `p_wechat_menu` SET `fid`='17',`sort`='1',`menu_name`='管理系统',`menu_type`='2',`menu_content`='http://www.no1987.com/',`status`='1',`update_time`='1480153219' WHERE `menu_id` = 18 [ RunTime:0.0034s ]
+
+[ 2016-11-26T17:41:25+08:00 ] 183.157.160.218 /admin/Users/?_=1480153285536
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-11-26T17:41:27+08:00 ] 183.157.160.218 /admin/Users/add_users?_=1480153287142
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-11-26T17:42:43+08:00 ] 183.157.160.218 /admin/Users/add_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `name` = '单群' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ckanem /var/www/html/Phebe/Application/Admin/Controller/UsersController.class.php 第 81 行.
+SQL: INSERT INTO `p_users` (`name`,`mobile`,`sex`,`type`,`create_time`,`status`) VALUES ('单群','15888879252','1','1','1480153363','1') [ RunTime:0.0031s ]
+
+[ 2016-11-26T17:42:43+08:00 ] 183.157.160.218 /admin/Users/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_users` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_users` ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-26T18:29:45+08:00 ] 183.157.160.218 /admin/Advert?rel=index_slide&type=1&_=1480156185113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_advert` WHERE `name` LIKE '%%' AND `type` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_advert` WHERE `name` LIKE '%%' AND `type` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2016-11-26T18:30:14+08:00 ] 183.157.160.218 /admin/Advert/add_advert?rel=index_slide&type=1&_=1480156214822
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-11-26T18:30:15+08:00 ] 183.157.160.218 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-11-26T18:30:52+08:00 ] 183.157.160.218 /admin/Upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Use of undefined constant APPPATH - assumed 'APPPATH' /var/www/html/Phebe/Application/Admin/Controller/UploadController.class.php 第 19 行.
+NOTIC: [8] Undefined index: filedata /var/www/html/Phebe/Application/Admin/Controller/UploadController.class.php 第 62 行.
+
+[ 2016-11-26T18:30:55+08:00 ] 183.157.160.218 /admin/Advert/add_advert?rel=index_slide&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant APPPATH - assumed 'APPPATH' /var/www/html/Phebe/Application/Common/Common/function.php 第 58 行.
+NOTIC: [8] Use of undefined constant APPPATH - assumed 'APPPATH' /var/www/html/Phebe/Application/Common/Common/function.php 第 79 行.
+SQL: INSERT INTO `p_advert` (`name`,`type`,`sort`,`img`,`ext`,`skip_type`,`desc`,`skip_content`,`create_time`,`status`) VALUES ('测试2','1','2','/Static/data/uploads/material/advert/2016/11/26/5839645c6c46c690008590','jpeg','1','测试幻灯片 跳转百度','http://www.baidu.com','1480156255','1') [ RunTime:0.0044s ]
+
+[ 2016-11-26T18:30:55+08:00 ] 183.157.160.218 /admin/Advert?rel=index_slide&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0007s ]
+SQL: SELECT count(*) AS cnt FROM `p_advert` WHERE `name` LIKE '%%' AND `type` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p_advert` WHERE `name` LIKE '%%' AND `type` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+

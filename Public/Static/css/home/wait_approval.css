@@ -1,0 +1,135 @@
+body,html{
+	width: 100%;
+	height: 100%;
+}
+a{
+	text-decoration: none;
+}
+.main{
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+	-webkit-box-orient: vertical;   
+	-moz-box-orient: vertical;
+}
+.approval_list{
+	width: 80%;
+	height: 0.48rem;
+	padding: 0 10%;
+	border-bottom: 1px solid #c9c9c9;
+	background: #fff;
+}
+.approval_list li{
+	height: 0.48rem;
+	font-size: 0.16rem;
+	line-height: 0.48rem;
+	color: #3f3f3f;
+	display: flex;
+}
+.wait_approval{
+	float: left;
+}
+.access_approval{
+	float: right;
+}
+.approval_list .add_style{
+	height:0.46rem;
+	color: #55c5d5;
+	border-bottom: 0.02rem solid #55c5d5;
+}
+.search{
+	width: 90%;
+	height: 0.45rem;
+	padding: 0 5%;
+	background: #fff;
+	border-bottom:1px solid #c9c9c9;
+}
+#search{
+	width: 100%;
+	height:0.27rem;
+	margin:0.09rem 0;
+	background: #f3f3f3;
+	font-size: 0.13rem;
+	color: #7d7d7d;
+	text-align: center;
+	line-height: 0.27rem;
+	border:0;
+	border-radius: 0.05rem;
+	outline:medium; 
+}
+/*主题部分*/
+.content{
+	width: 100%;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;
+	overflow: auto;
+}
+.non-wait{
+	width: 90%;
+	padding:0 5%;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;
+	background: #fff;
+	background: url('/Static/images/home/Sp_icon.png') no-repeat 50% 20%;
+}
+.wait_on_list{
+	width: 100%;
+	height: 100%;
+}
+.wait_on{
+	width: 100%;
+	height: 0.35rem;
+	background-color: #fff;
+	padding: 0.175rem 0;
+	border-top: 1px solid #d4d4d4;
+}
+.wait_on ul{
+	width: 90%;
+	height: 0.35rem;
+	margin:0 5%;
+}
+.wait_on ul li{
+	height: 0.35rem;
+	float: left;
+}
+.head_portrait{
+	width: 0.35rem;
+	height: 0.35rem;
+	border-radius: 50%;
+} 
+.wait_on_infor{
+	margin-left: 0.1rem;
+}
+.wait_on_infor p{
+	height: 0.2rem;
+	font-size: 0.15rem;
+	color: #3f3f3f;
+	line-height: 0.2rem;
+}
+.wait_on_infor a{
+	display: block;
+	height: 0.15rem;
+	font-size: 0.13rem;
+	color: #ff7200;
+	line-height: 0.15rem;
+}
+.wait_on_infor .wait_on_over{
+	color: #7d7d7d;
+}
+.wait_on_over em{
+	font-style: normal;
+}
+.wait_on ul .wait_on_time{
+	float: right;
+	color: #7d7d7d;
+	font-size: 0.13rem;
+}
+/*已经审批*/
+.access_list{
+	width: 100%;
+	height: 100%;
+}

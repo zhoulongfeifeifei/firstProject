@@ -1,0 +1,252 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	overflow:auto; 
+}
+#main{
+		max-width:750px;
+		min-width:320px;
+		margin:0 auto;
+		height:100%;
+		position: relative;
+		display: flex;
+		flex-direction: column;
+
+	}
+
+/***头部**/
+.nav{
+	width:100%;
+	height:0.45rem;
+	background:#f3f3f3;
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+	-webkit-box-orient: vertical;   
+	-moz-box-orient: vertical;
+	box-orient: vertical;
+}
+.nav>ul{
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+	height:100%;
+	background: #55c5d5;
+	-webkit-box-orient: horizontal;   
+	-moz-box-orient: horizontal;
+	box-orient: horizontal;
+	border-bottom:1px solid #d4d4d4;
+}
+.nav>ul>li{
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;
+	line-height: 0.45rem;
+	text-align:center;
+
+}
+.nav li:nth-child(3){
+	text-align:right;
+}
+#agency_lists,#teacher_lists,#student_lists{
+	color: #fff;
+	font-weight: bold;
+	font-size:0.15rem;
+	border:0px;
+	appearance:none;   
+	-moz-appearance:none;   
+	-webkit-appearance:none;
+	background: #55c5d5;
+}
+.calendar{
+	margin:0.10rem 0.20rem 0 0 ;
+	width:0.25rem;
+	height:0.25rem;
+}
+.upBtn>img{
+	width:0.10rem;
+	color: #fff;
+	font-weight: bold;
+	margin:0.20rem 0 0 0.06rem;
+}
+.timet{
+	width: 100%;
+	height: 0.4rem;
+	background: #fff;
+	margin-top: 0.1rem;
+	border-top: 0.01rem solid #d4d4d4;
+	border-bottom: 0.01rem solid #d4d4d4;
+}
+.timet li{
+	float: left;
+	text-align: center;
+	line-height: 0.4rem;
+	height: 0.4rem;
+	font-size: 0.13rem;
+	color: #3f3f3f;
+}
+.timet-li1{
+	width: 20%;
+}
+.timet-li1 img{
+	height: 0.15rem;
+	width: 0.15rem;
+	margin-top: 0.13rem;
+}
+.timet-li2{
+	width: 60%;
+}
+/*课表*/
+.course-arrange{
+	width: 90%;
+	-webkit-box-flex:1;
+	margin-top:0.10rem;
+	margin: 0 auto;
+	overflow: auto;
+}
+.weekend-course{
+	width: 100%;
+	line-height: 100%;
+	font-size: 0.13rem;
+	overflow: auto;
+
+	position: relative;
+}
+.course-date{
+	width: 14%;
+	height: 99%;
+	float: left;
+	line-height: 100%;
+	font-size: 0.13rem;
+	text-align: center;
+	background: #55c5d5;
+	color: #fff;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	display: flex;
+	align-items: center;
+}
+.time-slide{
+	width: 13%;
+	height: 100%;
+	float: left;
+	background: #fff;
+	overflow: hidden;
+	margin-left: 14.2%;
+}
+.time-slide li{
+	width: 90%;
+	height: 0.5rem;
+	font-size: 0.14rem;
+	background: #55c5d5;
+	color: #fff;
+	text-align: center;
+	padding: 0.1rem 5% 0 5%;
+	margin-bottom:0.02rem;
+}
+.course_lists{
+	width: 70%;
+	height: auto;
+	overflow: hidden;
+}
+.course-infor{
+	width: 100%;
+	height: 0.6rem;
+	float: left;
+	/*margin-left: 0.02rem;*/
+	overflow-x: auto;
+	white-space: nowrap;
+	background: #fff; 
+	margin-bottom: 0.02rem;
+}
+.student-info{
+	width: 49%;
+	height: 0.56rem;
+	display: inline-block;
+	font-size: 0.13rem;
+	background: #c8ddfa;
+	color: #3f3f3f;
+	margin-left: 0.02rem;
+	overflow: hidden;
+}
+.student-info-bg{
+	background: #ecf3fd;
+}
+.student-info span{
+	display: block;
+	width: 92%;
+	height: 0.2rem;
+	line-height: 0.2rem;
+	padding: 0 4%;
+}
+.course{
+	width: 93%;
+	height: 3rem;
+	margin:0 auto;
+	position:fixed;
+	z-index: 100;
+	left: 3%;
+	top:50%;
+	margin-top: -1.5rem;
+	background: #fff;
+	border-radius: 0.05rem;
+	display: none;
+	overflow: hidden;
+}
+.course p{
+	width: 100%;
+	height: 0.35rem;
+	background: #eee;
+	font-size: 0.16rem;
+	color: #3f3f3f;
+	text-align: center;
+	line-height: 0.35rem;
+}
+.week-course{
+	width: 100%;
+	height: 1.66rem;
+	margin: 0.2rem 0;
+}
+.course-list li{
+	width: 44%;
+	height: 0.25rem;
+	font-size: 0.13rem;
+	color: #3f3f3f;
+	line-height: 0.25rem;
+	margin:0 28%;
+}
+.course-list2{
+	width: 100%;
+	height: 0.32rem;
+	margin-top: 0.25rem;
+}
+.course-list2 li{
+	width: 29%;
+	height: 0.32rem;
+	margin:0 2%;
+	font-size: 0.16rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.32rem;
+	border-radius: 0.05rem;
+	background: #55c5d5;
+	float: left;
+} 
+#course-li{
+	background: #ff3846;
+}
+.getOut{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.5);
+	display: none;
+	position:fixed;
+	left: 0;
+	top: 0;
+	z-index: 999;
+	overflow: hidden;
+}
+
+
+ 

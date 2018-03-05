@@ -1,0 +1,1716 @@
+[ 2016-11-28T09:09:50+08:00 ] 58.247.206.151 /Wechat/?signature=bea899ade06d19094563276d11bdb58bc870c729&timestamp=1480295390&nonce=1597339511&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-11-28T09:09:52+08:00 ] 58.247.206.151 /Wechat/?signature=193161153e81a5e366e98a1fe8701bdb2a643f6f&timestamp=1480295392&nonce=1182118538&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T10:05:47+08:00 ] 58.247.206.156 /Wechat/?signature=48447996ae4caaf609aa91df0bc8388bac1be612&timestamp=1480298747&nonce=79189865&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-11-28T10:05:49+08:00 ] 58.247.206.151 /Wechat/?signature=63154281031342979adab171260efdc26fa57b5a&timestamp=1480298749&nonce=117800429&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-28T10:11:53+08:00 ] 140.207.54.74 /Wechat/?signature=9b253fd58ea317945d7923c2640456a1cdb1ea2b&timestamp=1480299113&nonce=1692646248&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-11-28T10:11:54+08:00 ] 140.207.54.73 /Wechat/?signature=b2df0b08241d47a3e5e3f0ddba666ec7cc0a03ab&timestamp=1480299114&nonce=655885440&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-11-28T10:12:11+08:00 ] 58.247.206.146 /Wechat/?signature=0892e577d9e8eeb436467522c922be7d5de76049&timestamp=1480299131&nonce=1282067153&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-11-28T10:13:55+08:00 ] 58.247.206.146 /Wechat/?signature=91d307cbd4e6e904dbbab0d97a3189c8a08934a9&timestamp=1480299235&nonce=957926778&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-11-28T10:14:05+08:00 ] 140.207.54.73 /Wechat/?signature=c0b470880030b11600c2d3fe403607773d15e43a&timestamp=1480299245&nonce=679367789&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-11-28T10:14:06+08:00 ] 140.207.54.74 /Wechat/?signature=77656f0ab6f57fe048f1ac48bf94f2714cebc472&timestamp=1480299246&nonce=549591333&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T10:26:53+08:00 ] 58.247.206.153 /Wechat/?signature=179aafa9bc65e035c86b4b7e2112374b851891a1&timestamp=1480300013&nonce=1660818740&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2016-11-28T10:26:54+08:00 ] 58.247.206.145 /Wechat/?signature=dadbb6c723eb1c0d9b2423ae58c5c65b9f89f427&timestamp=1480300014&nonce=1106833566&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-11-28T10:30:04+08:00 ] 58.247.206.158 /Wechat/?signature=a41c77ee9868272e09351fd9534d514d66de12c1&timestamp=1480300204&nonce=356382383&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T10:30:05+08:00 ] 58.247.206.153 /Wechat/?signature=f1e32e9d30a226ea24c46842b178a93e1e8f5e56&timestamp=1480300205&nonce=724956461&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-28T10:30:24+08:00 ] 58.247.206.153 /Wechat/?signature=7fcf70b8f77cb88bfb18af7433bc233f5654a07d&timestamp=1480300224&nonce=2084359317&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T10:30:25+08:00 ] 58.247.206.153 /Wechat/?signature=b2252b845a55cf8e7747bbb949422497d685f624&timestamp=1480300225&nonce=1379350446&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-11-28T10:30:52+08:00 ] 58.247.206.148 /Wechat/?signature=aa630207d953db545a5e7a17e7e8521cec588ca1&timestamp=1480300252&nonce=1108551205&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-28T10:30:54+08:00 ] 58.247.206.143 /Wechat/?signature=463c784d386d0aae061195f8e13cd96d518969b6&timestamp=1480300254&nonce=1518937322&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-11-28T12:40:10+08:00 ] 58.247.206.141 /Wechat/?signature=dff7196c84003f1708df2cdf9821c16656775b48&timestamp=1480308010&nonce=1215497337&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-11-28T12:40:11+08:00 ] 58.247.206.151 /Wechat/?signature=66ce820522bfa40b954ad4d380e9122c01ba0e0a&timestamp=1480308011&nonce=265992201&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2016-11-28T15:12:07+08:00 ] 58.247.206.143 /Wechat/?signature=242998ebfffb82a616d83500a01a793e9ea23662&timestamp=1480317127&nonce=226442207&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-11-28T15:58:34+08:00 ] 58.247.206.156 /Wechat/?signature=4209082dc7202d73dbe334dd92b2cb307cad40ff&timestamp=1480319914&nonce=1543155524&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T15:58:35+08:00 ] 58.247.206.158 /Wechat/?signature=7d11c89fb17c1378e7dd893bf93af92895a3b521&timestamp=1480319915&nonce=1344654557&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-11-28T17:33:00+08:00 ] 140.207.54.74 /Wechat/?signature=f1213bade5bd36098da34e81992154142f136b1f&timestamp=1480325580&nonce=18892899&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-11-28T17:33:01+08:00 ] 140.207.54.74 /Wechat/?signature=87e2fdbdcfdecf88ccd87f903fd9f237bc1825b5&timestamp=1480325581&nonce=1558277433&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-11-28T17:33:11+08:00 ] 140.207.54.73 /Wechat/?signature=521dfd39b2ae2ca21728f3ca4f30e40d298973fa&timestamp=1480325591&nonce=35340292&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-11-28T17:33:24+08:00 ] 140.207.54.73 /Wechat/?signature=2038bfd0910beb44ea743701358fe3e5e1f2cf42&timestamp=1480325604&nonce=1260247356&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-11-28T17:33:43+08:00 ] 140.207.54.74 /Wechat/?signature=1cf865c5fb737966072b840cb21a1ee89da9a78e&timestamp=1480325623&nonce=207972207&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-28T17:35:55+08:00 ] 58.247.206.151 /Wechat/?signature=83e4b241046e5485129ee8d97ea15b9c68a61905&timestamp=1480325755&nonce=1356150927&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T17:35:57+08:00 ] 58.247.206.158 /Wechat/?signature=fba3955587d86e2f1978079c464a0d3f670f6a81&timestamp=1480325757&nonce=1123717714&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-11-28T18:04:45+08:00 ] 58.247.206.141 /Wechat/?signature=4f6b202d1ee0955a392bad1c941c8e97ad5d4299&timestamp=1480327485&nonce=49943945&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T18:04:47+08:00 ] 58.247.206.156 /Wechat/?signature=4b0c5cbad84a31adf1822723500abef402068d36&timestamp=1480327487&nonce=1332870700&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T18:06:38+08:00 ] 58.247.206.141 /Wechat/?signature=ff17d2223046a3fad19905fc2fda162e43d75e6f&timestamp=1480327598&nonce=746239310&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-11-28T18:08:58+08:00 ] 58.247.206.156 /Wechat/?signature=4f24fcdf954ecf6fb93265d986a4b4bd8449753d&timestamp=1480327738&nonce=2038308083&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-11-28T18:12:15+08:00 ] 58.247.206.153 /Wechat/?signature=6d09a43f8a927a5f5af0edf040b8dd5e2740d030&timestamp=1480327935&nonce=2117351465&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-11-28T18:12:16+08:00 ] 140.207.54.73 /Wechat/?signature=ec01d1ff50441fef3bdd4506566657c56cce2a7d&timestamp=1480327936&nonce=2023929489&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-28T18:13:16+08:00 ] 140.207.54.73 /Wechat/?signature=4db1a6c27a8f9e8cf6f6e9bc6d5723d21e318728&timestamp=1480327996&nonce=1100649524&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-11-28T18:13:18+08:00 ] 140.207.54.74 /Wechat/?signature=98ade28342311cf69f2aa0305d07f948ba7d3a30&timestamp=1480327998&nonce=380340803&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-11-28T18:13:50+08:00 ] 58.247.206.148 /Wechat/?signature=3079834e2ebb7ce540ec28548c7c7698e648feb0&timestamp=1480328030&nonce=1552910165&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-11-28T18:13:52+08:00 ] 58.247.206.148 /Wechat/?signature=36c87a4e824204f8971a72a288b4ec440ed287e8&timestamp=1480328032&nonce=1927840796&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-11-28T18:14:39+08:00 ] 58.247.206.143 /Wechat/?signature=79cd78b10130bd1efd3bce1ab8e1a6e9b749649a&timestamp=1480328079&nonce=1298562997&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T18:14:40+08:00 ] 58.247.206.143 /Wechat/?signature=5708420ad246f292255abbd561cad1cd333630c4&timestamp=1480328080&nonce=1684960099&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-11-28T18:14:50+08:00 ] 58.247.206.148 /Wechat/?signature=081efc68ed7d1c66a1e9fa491e92f5d235799df2&timestamp=1480328090&nonce=1506057325&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-11-28T18:14:52+08:00 ] 58.247.206.148 /Wechat/?signature=8839d293b4f6a6c946652abef92ba23033232ebc&timestamp=1480328092&nonce=1938685724&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-11-28T18:15:39+08:00 ] 58.247.206.143 /Wechat/?signature=48af61fa966b7fdedd6868941e9ba5e6b383dc29&timestamp=1480328139&nonce=313499286&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-11-28T18:15:41+08:00 ] 58.247.206.153 /Wechat/?signature=a720ff11289c604d894fce8e25443825f3bb19cb&timestamp=1480328141&nonce=596817713&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-11-28T18:15:47+08:00 ] 58.247.206.153 /Wechat/?signature=fe48945dcba3b69ba9add256dc7040a6c4e09ac1&timestamp=1480328147&nonce=1703041435&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-11-28T18:16:27+08:00 ] 58.247.206.148 /Wechat/?signature=80c9f4a9c2b1ad8e8ed69a3074d9a563a920268e&timestamp=1480328187&nonce=497496462&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-11-28T18:16:29+08:00 ] 58.247.206.158 /Wechat/?signature=22d83bbca7de0c3d8f57192c755c1fa365499a50&timestamp=1480328189&nonce=1168507401&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-11-28T18:16:46+08:00 ] 58.247.206.148 /Wechat/?signature=a452fa1c80952c232cb8412761678171f916bd95&timestamp=1480328206&nonce=1532729240&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-28T18:16:50+08:00 ] 58.247.206.153 /Wechat/?signature=8891521643e099a8b41dc597595b193edc485be1&timestamp=1480328210&nonce=1827777677&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-11-28T18:16:56+08:00 ] 58.247.206.157 /Wechat/?signature=b5992476aa726b9a5ca9b1ddecb4104c9b1694f2&timestamp=1480328216&nonce=248907880&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-11-28T18:16:56+08:00 ] 58.247.206.152 /Wechat/?signature=98318fce4e0bbc25fd99ec296f933fce4c5f8df2&timestamp=1480328216&nonce=491168970&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: UPDATE `p_wechat_users` SET `subscribe`='0',`unsubscribe_time`='1480328216' WHERE `openid` = 'obvQHwp8Y5SxrjsDM4f8qnqoauh4' [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-28T18:17:02+08:00 ] 58.247.206.141 /Wechat/?signature=a59d2ba6839e83ac5a36f4d5ea0b02381535a7f9&timestamp=1480328221&nonce=27399080&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwp8Y5SxrjsDM4f8qnqoauh4' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 115 行.
+SQL: UPDATE `p_wechat_users` SET `subscribe`='1',`openid`='obvQHwp8Y5SxrjsDM4f8qnqoauh4',`nickname`='我是房奴',`sex`='2',`language`='zh_CN',`city`='西安',`province`='陕西',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/PkXKn1XrJvRI0bFGkDF1l5P1ffuXszw3vlIsNMjLIOUW1xKd6xeZuHgzPrTkqoJiaId54NNABib3bweGR4qv6icjA/0',`remark`='',`groupid`='0',`tagid_list`='a:0:{}',`recommend_id`='0' WHERE `id` = 6 [ RunTime:0.0037s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 1 /var/www/html/Phebe/Application/Common/Common/function.php 第 37 行.
+SQL: UPDATE `p_wechat_users` SET `qrcode_img`='/Static/data/uploads/qrcode/obvQHwp8Y5SxrjsDM4f8qnqoauh4_qrcode.jpg',`qrcode_time`='1480328122' WHERE `openid` = 'obvQHwp8Y5SxrjsDM4f8qnqoauh4' [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `p_wechat_message_revert` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_message_revert` WHERE `receive_type` = 1 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-11-28T18:17:04+08:00 ] 58.247.206.143 /Wechat/?signature=f74a94f2287efeb02a103e178b811126a0346f67&timestamp=1480328224&nonce=39346423&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-11-28T18:17:05+08:00 ] 58.247.206.148 /Wechat/?signature=1ae901acae7ed2eaa54ee0527d13ff297851bfe0&timestamp=1480328225&nonce=860200771&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2016-11-28T18:18:00+08:00 ] 58.247.206.158 /Wechat/?signature=7353d2378972a49f834b882a364cc0f34a614615&timestamp=1480328280&nonce=615958064&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-11-28T18:18:02+08:00 ] 58.247.206.143 /Wechat/?signature=55ca797169d14a7addf71452c4cb19617bd4e5a1&timestamp=1480328282&nonce=1046207822&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-11-28T18:18:08+08:00 ] 58.247.206.144 /Wechat/?signature=eec3e2f12bb8cc6e834afbb6762db8bb7287f18a&timestamp=1480328288&nonce=1952889217&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-11-28T18:18:09+08:00 ] 58.247.206.153 /Wechat/?signature=45bbba7660384929b0f8c7820f4324bb635d1f98&timestamp=1480328289&nonce=1482504532&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-11-28T18:19:52+08:00 ] 58.247.206.139 /Wechat/?signature=31017a08fde0a54f96e8c597ba9751df6cec27b8&timestamp=1480328392&nonce=782591417&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-11-28T18:20:21+08:00 ] 58.247.206.143 /Wechat/?signature=98025d8d210f7e817bc5e29402a4edba20eab208&timestamp=1480328421&nonce=1758550204&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-11-28T18:20:54+08:00 ] 58.247.206.146 /Wechat/?signature=0318950c7476e0eb6646b72ae1672a243934be9d&timestamp=1480328454&nonce=64894296&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-11-28T18:26:09+08:00 ] 58.247.206.148 /Wechat/?signature=3d97165d970bc48b8178b3d3d8f71e3bf4212ed8&timestamp=1480328769&nonce=783943127&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-11-28T18:27:58+08:00 ] 58.247.206.158 /Wechat/?signature=ffbbda077242182d2b2e3f41ccab3ef3282384a9&timestamp=1480328878&nonce=343118816&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T18:28:04+08:00 ] 58.247.206.143 /Wechat/?signature=0ca55881376ae7fb90ceefb2730ad5e39138a993&timestamp=1480328884&nonce=1608151509&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-11-28T18:28:32+08:00 ] 58.247.206.156 /Wechat/?signature=c51c1e2c9e2c70ea305761c8b24d493c01bbb287&timestamp=1480328911&nonce=1261803864&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-11-28T18:28:58+08:00 ] 58.247.206.141 /Wechat/?signature=6697f66cfc42bc183fbeea78feb84bcbe4967327&timestamp=1480328938&nonce=1551268295&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-11-28T18:31:18+08:00 ] 58.247.206.151 /Wechat/?signature=a5909fa42aaee57e639878d8e7799dd358e99861&timestamp=1480329078&nonce=1690946321&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-11-28T18:32:23+08:00 ] 58.247.206.157 /Wechat/?signature=c4ef89de7129c992b22f712800e0ab11ae8c91b6&timestamp=1480329143&nonce=1056055931&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-11-28T18:34:00+08:00 ] 140.207.54.74 /Wechat/?signature=20d275ca3b0e06e03ed3003207edaa993cfeb3b6&timestamp=1480329240&nonce=1535955154&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-11-28T18:39:20+08:00 ] 140.207.54.74 /Wechat/?signature=a3aa13843b5c4bddaadc56bf682c638d01086f69&timestamp=1480329559&nonce=1733562255&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-11-28T18:39:21+08:00 ] 140.207.54.74 /Wechat/?signature=032b613b37f89da83e0fea760ec603bb75cf2580&timestamp=1480329561&nonce=1953646007&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-11-28T18:40:30+08:00 ] 58.247.206.152 /Wechat/?signature=ae06ed3d715c9176d83fbb4382c67b0746fdf811&timestamp=1480329630&nonce=2098010314&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-11-28T18:40:31+08:00 ] 58.247.206.148 /Wechat/?signature=ab19e108136c8a4dcc24326b3051f427a8fc7a07&timestamp=1480329631&nonce=2107043511&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-11-28T18:45:21+08:00 ] 58.247.206.153 /Wechat/?signature=fa29ecf22345759c5a82a0b6299efb9660f692a7&timestamp=1480329921&nonce=927331396&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T18:45:23+08:00 ] 58.247.206.142 /Wechat/?signature=5cd659a504f153e19d7c8812fbc0637c36734859&timestamp=1480329922&nonce=873160746&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-11-28T18:45:38+08:00 ] 58.247.206.143 /Wechat/?signature=6975ae15645d78177b43f887b935aa58e16846a7&timestamp=1480329938&nonce=527748748&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T18:45:40+08:00 ] 58.247.206.158 /Wechat/?signature=d0e289a11db00984b7ba5e594a37c0c6003b9ee8&timestamp=1480329940&nonce=1790642417&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-11-28T18:51:32+08:00 ] 58.247.206.143 /Wechat/?signature=65ecddac8b1ef6adefe514b1edba59055b89e30c&timestamp=1480330292&nonce=1775627960&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-11-28T18:51:33+08:00 ] 58.247.206.153 /Wechat/?signature=b7210f3086d1d698556b190b2906befe79068c24&timestamp=1480330293&nonce=214084307&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-28T19:03:54+08:00 ] 58.247.206.153 /Wechat/?signature=081f7ab668a7d483868ca4886c890c448b849ad7&timestamp=1480331034&nonce=1200009721&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-11-28T19:03:55+08:00 ] 58.247.206.148 /Wechat/?signature=25dd0e970ac3d523d0c155259eba7dcf9d0020c9&timestamp=1480331035&nonce=1143275072&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-11-28T19:04:31+08:00 ] 140.207.54.74 /Wechat/?signature=08c298c6a21385173f9dc44ec034171fa00ae509&timestamp=1480331071&nonce=922666010&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-11-28T19:04:38+08:00 ] 140.207.54.73 /Wechat/?signature=e0438297eb150c079af84bf148dde457836f01b9&timestamp=1480331078&nonce=1834144284&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-11-28T19:04:39+08:00 ] 140.207.54.73 /Wechat/?signature=61d830850f6016ac210a1067e18b9dfe4b7c3f3d&timestamp=1480331079&nonce=786993523&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-11-28T19:08:15+08:00 ] 58.247.206.158 /Wechat/?signature=7cdcd0a169a042b6ada10c0ba89005d1146c1618&timestamp=1480331295&nonce=1814341979&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-11-28T19:08:16+08:00 ] 58.247.206.153 /Wechat/?signature=9b1c06bf1ef37d3e9a343a31a04e64ec82b9dcde&timestamp=1480331296&nonce=955324522&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-11-28T19:09:48+08:00 ] 58.247.206.143 /Wechat/?signature=f98457e4168d1cbef0cdd4d0ed1b413dc6a80608&timestamp=1480331388&nonce=1115267904&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-11-28T19:09:55+08:00 ] 58.247.206.158 /Wechat/?signature=af77f2f29b49b4d96d3f48c4d0a56597342946f1&timestamp=1480331395&nonce=1274111688&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-28T19:09:57+08:00 ] 58.247.206.158 /Wechat/?signature=0b16f470c1ed4b871cd61be696c0704eb8e67588&timestamp=1480331397&nonce=248038300&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-11-28T19:11:01+08:00 ] 140.207.54.74 /Wechat/?signature=bd0b9cc79aa9b13dee26d234bc5a0d16ab092aa9&timestamp=1480331461&nonce=1522270537&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-11-28T19:11:11+08:00 ] 58.247.206.142 /Wechat/?signature=38898a4e6c6a93b82cc573051b8244818e38823b&timestamp=1480331471&nonce=2135450759&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-11-28T19:11:13+08:00 ] 58.247.206.146 /Wechat/?signature=44c3d5b6d71b3506085bb16f1181cf2a1b140c59&timestamp=1480331473&nonce=962120722&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-11-28T19:11:44+08:00 ] 58.247.206.143 /Wechat/?signature=c86de649d6e32bd8be2c5d0c11ee4fa17d3f6a46&timestamp=1480331504&nonce=1512668197&openid=obvQHwucnFX8DVD-svtl5_GZTbrQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-11-28T19:11:44+08:00 ] 58.247.206.146 /Wechat/?signature=739463da8aba28d88dc0f5a46ae429a1346bc0fd&timestamp=1480331504&nonce=1122514273&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-11-28T19:11:46+08:00 ] 58.247.206.148 /Wechat/?signature=92671507eed43306817a1c8c4fb74bf17f62deb4&timestamp=1480331506&nonce=1318761710&openid=obvQHwucnFX8DVD-svtl5_GZTbrQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T19:11:52+08:00 ] 58.247.206.158 /Wechat/?signature=a05eb7ce193e0a67f8599d17aec0946d50ac1ae4&timestamp=1480331512&nonce=1197776665&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2016-11-28T19:11:53+08:00 ] 58.247.206.153 /Wechat/?signature=b73bbb59a2f7ca02f468c514013038fa099ce80c&timestamp=1480331513&nonce=1518624652&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-11-28T19:14:06+08:00 ] 58.247.206.143 /Wechat/?signature=56138ea8aee7f152b48c4127a45dc8c322a008aa&timestamp=1480331646&nonce=600274899&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-28T19:14:08+08:00 ] 58.247.206.158 /Wechat/?signature=1d9be015904fbe0ee65d2268d33b411658a55901&timestamp=1480331648&nonce=1772814676&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-11-28T19:14:41+08:00 ] 58.247.206.143 /Wechat/?signature=9226ec3c7acc25f734c69606d57ce387998a2542&timestamp=1480331681&nonce=157967056&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-11-28T19:14:42+08:00 ] 58.247.206.153 /Wechat/?signature=927f11fb830d432890ab7d0e6be0201a5ed35635&timestamp=1480331682&nonce=922152872&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-28T19:16:35+08:00 ] 58.247.206.153 /Wechat/?signature=42c16d39d6bfcf988a492575885e6d95d6909625&timestamp=1480331795&nonce=1922234011&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-28T19:16:36+08:00 ] 140.207.54.74 /Wechat/?signature=4b6da0d6db2d2bf65a24db606888b71c5880e688&timestamp=1480331796&nonce=1213188614&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-11-28T19:22:53+08:00 ] 58.247.206.143 /Wechat/?signature=49f8767e3a30c06f5735f14d0483a4d0258d5933&timestamp=1480332173&nonce=1408066476&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-11-28T19:22:55+08:00 ] 58.247.206.142 /Wechat/?signature=4e6a932b14292f4dbc91007cefa52b07ffbaa1f8&timestamp=1480332175&nonce=394816455&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-11-28T19:23:05+08:00 ] 58.247.206.156 /Wechat/?signature=fc32b3576c4d76c6489cf1e13706a9fd51f96af8&timestamp=1480332185&nonce=962069270&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-11-28T19:23:47+08:00 ] 58.247.206.153 /Wechat/?signature=6d99d26a6b9d018b3da17d03e1bc1ca8550dab69&timestamp=1480332227&nonce=1716218190&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-11-28T19:23:59+08:00 ] 58.247.206.158 /Wechat/?signature=fd1c8ab2ba7c2e849225a8d3bc59e670a1f4ea88&timestamp=1480332239&nonce=172115997&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T19:24:01+08:00 ] 58.247.206.148 /Wechat/?signature=9f9cb3909fc16e0f79d8a664c7382ae2541c05f3&timestamp=1480332241&nonce=1639378532&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-28T19:25:01+08:00 ] 58.247.206.156 /Wechat/?signature=c099162c53c121e07b0192a85b4c8ce3a48fbf65&timestamp=1480332301&nonce=1829761769&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-11-28T19:25:05+08:00 ] 140.207.54.73 /Wechat/?signature=1e093e4a5788a9e59875919b0054ed94d10cfc11&timestamp=1480332305&nonce=1779185721&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-11-28T19:25:06+08:00 ] 140.207.54.74 /Wechat/?signature=2b980d733ea2891db6d7145cc119919b5ea1f817&timestamp=1480332306&nonce=500230706&openid=obvQHwp8Y5SxrjsDM4f8qnqoauh4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-28T19:25:12+08:00 ] 58.247.206.141 /Wechat/?signature=8ffd8f8b6689452a236d4f3d4c54fa72a4654dde&timestamp=1480332312&nonce=1068971785&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-11-28T19:25:28+08:00 ] 58.247.206.141 /Wechat/?signature=80356e7611769eaafa89a777852e8ebdfe695345&timestamp=1480332328&nonce=1288514805&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-11-28T19:26:38+08:00 ] 58.247.206.158 /Wechat/?signature=f17c4ed743cab2563b165551b93fd4f6f98387f2&timestamp=1480332397&nonce=145542844&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-11-28T19:26:42+08:00 ] 58.247.206.158 /Wechat/?signature=50d16db91bd251800e6d97263f32cd25140de58a&timestamp=1480332402&nonce=1708482923&openid=obvQHwucnFX8DVD-svtl5_GZTbrQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-11-28T19:26:44+08:00 ] 58.247.206.148 /Wechat/?signature=2dedd2bc1f589a9759fe52e5a860a6a5f2a3e7b2&timestamp=1480332404&nonce=944535325&openid=obvQHwucnFX8DVD-svtl5_GZTbrQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2016-11-28T19:27:37+08:00 ] 58.247.206.148 /Wechat/?signature=ae0c357d8d911760df44e1b6fc21cae149cdcf9d&timestamp=1480332457&nonce=2097735158&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-11-28T19:27:38+08:00 ] 58.247.206.148 /Wechat/?signature=175bf7bb0d93275b3e6d90dda33483fada3bab51&timestamp=1480332458&nonce=1893257759&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-28T19:27:46+08:00 ] 58.247.206.153 /Wechat/?signature=a279b93758db610460d6ad63aa6f33b77503606c&timestamp=1480332466&nonce=63420136&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-11-28T19:28:39+08:00 ] 140.207.54.73 /Wechat/?signature=c65a30dcdb2c2806fe9f0a321828dc99b1859bd4&timestamp=1480332519&nonce=1112853642&openid=obvQHwqIceYt0C8mQ3do8q8Dzxbg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-28T19:28:42+08:00 ] 140.207.54.73 /Wechat/?signature=7b499c3270a3b48815eb534feabe9b01ac8ff726&timestamp=1480332522&nonce=1525093504&openid=obvQHwqIceYt0C8mQ3do8q8Dzxbg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-11-28T19:30:00+08:00 ] 58.247.206.143 /Wechat/?signature=21f8c2e51714cee7dd0c72a6c5c738918469afd7&timestamp=1480332600&nonce=838735972&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-11-28T19:30:01+08:00 ] 58.247.206.143 /Wechat/?signature=9920a9f780b982f6347449e5426daa2484e7f2a7&timestamp=1480332601&nonce=1550013816&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-11-28T19:31:56+08:00 ] 58.247.206.151 /Wechat/?signature=3b6f5431c90b3832668cd10bf6fcc2c82ba490d2&timestamp=1480332715&nonce=441610813&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-11-28T19:31:57+08:00 ] 58.247.206.146 /Wechat/?signature=7bd81561756c585f19c9602684f9ec062ed58337&timestamp=1480332716&nonce=1317179705&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-11-28T19:33:58+08:00 ] 58.247.206.143 /Wechat/?signature=b74e9a85ddb41740cdd972262f5c4f3d74db60f3&timestamp=1480332838&nonce=1642923237&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T19:38:33+08:00 ] 58.247.206.151 /Wechat/?signature=2e96fc8884d5df029a8520d4e54d91751b89cf22&timestamp=1480333113&nonce=1318811233&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-11-28T19:38:35+08:00 ] 58.247.206.146 /Wechat/?signature=890bb8abf72a93a35c7b4e03c4d7fbd2c2796610&timestamp=1480333115&nonce=332665282&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2016-11-28T19:38:58+08:00 ] 140.207.54.73 /Wechat/?signature=7e44b8cc8ab0959b8be4162c5f3f98ca6a60b203&timestamp=1480333138&nonce=1368273732&openid=obvQHwqIceYt0C8mQ3do8q8Dzxbg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-11-28T20:10:32+08:00 ] 58.247.206.141 /Wechat/?signature=cdf1ac24fb942de7ae1dabf20527147c958ad39a&timestamp=1480335032&nonce=111201134&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-11-28T20:10:33+08:00 ] 58.247.206.141 /Wechat/?signature=8f37f22be9b649ecf7bcd4fec99c93015e685684&timestamp=1480335033&nonce=825210131&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-11-28T20:55:26+08:00 ] 58.247.206.156 /Wechat/?signature=3ff980a71c656c6a6d9b8f72f6803ff8a4fda69f&timestamp=1480337726&nonce=1381426165&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-11-28T20:55:28+08:00 ] 58.247.206.141 /Wechat/?signature=0f98c799c07077aeaa8e08534b2ca995aac3454a&timestamp=1480337728&nonce=2021047437&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-28T20:58:06+08:00 ] 58.247.206.155 /Wechat/?signature=b5e465aa3524ea37d2b1b8a6860726c2fe15924e&timestamp=1480337886&nonce=462822324&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-11-28T20:58:15+08:00 ] 58.247.206.146 /Wechat/?signature=1cf6dfdfeab63f90b535a8a82052bbddf90dc801&timestamp=1480337895&nonce=1603722094&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2016-11-28T21:26:39+08:00 ] 58.247.206.141 /Wechat/?signature=5c6079f5b0d6f27eb530d033b84386b7141b13b9&timestamp=1480339599&nonce=384267551&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-11-28T21:26:40+08:00 ] 58.247.206.151 /Wechat/?signature=d79db5237b30cf01eb35233beb77d7812b3ea09a&timestamp=1480339600&nonce=1985768587&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-11-28T21:42:15+08:00 ] 58.247.206.158 /Wechat/?signature=37633d38f3169e705f7525ca4da8e435ddfe2615&timestamp=1480340535&nonce=978241861&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-11-28T21:42:17+08:00 ] 58.247.206.158 /Wechat/?signature=269ce8694b6400a55a028acef2aca8fdcfdad375&timestamp=1480340537&nonce=1378938570&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+

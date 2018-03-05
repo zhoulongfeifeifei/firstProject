@@ -1,0 +1,1925 @@
+[ 2016-11-24T10:02:47+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-11-24T10:55:41+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-11-24T10:55:42+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-11-24T10:55:43+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-11-24T10:57:03+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-11-24T11:33:29+08:00 ] 127.0.0.1 /api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-11-24T11:54:43+08:00 ] 127.0.0.1 /Api/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载控制器:Index.php
+
+[ 2016-11-24T11:54:58+08:00 ] 127.0.0.1 /index.php/Api/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0017s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T11:55:07+08:00 ] 127.0.0.1 /index.php/Api/index/accoument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000197s ]
+ERR: 非法操作:accoument
+
+[ 2016-11-24T11:55:12+08:00 ] 127.0.0.1 /index.php/Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0017s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0008s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2016-11-24T12:02:13+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0012s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:55+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0062s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0014s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:55+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0026s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:56+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000202s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0035s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0005s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0004s ]
+
+[ 2016-11-24T13:21:57+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0019s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:57+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0031s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:57+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0024s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0006s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2016-11-24T13:21:58+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0044s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0005s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:58+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0021s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:21:58+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0021s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:21:58+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0021s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:21:59+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0038s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:22:01+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0011s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:22:50+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0010s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:22:53+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0022s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:22:56+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000197s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0024s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0006s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0004s ]
+
+[ 2016-11-24T13:24:25+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0009s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:24:54+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0021s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:27:08+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0009s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:27:09+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0021s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:27:10+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0020s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:27:18+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0018s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:28:24+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-24T13:28:25+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-11-24T13:28:26+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-11-24T13:28:27+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2016-11-24T13:28:27+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-11-24T13:28:27+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-11-24T13:28:28+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-24T13:28:28+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2016-11-24T13:28:28+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-11-24T13:28:28+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-11-24T13:28:28+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2016-11-24T13:28:29+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-11-24T13:28:29+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000193s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-11-24T13:28:29+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001179s ]
+
+[ 2016-11-24T13:28:29+08:00 ] 127.0.0.1 /Api/index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-11-24T13:38:52+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:39:00+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:39:06+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0011s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:39:14+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:42:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0011s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:42:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-11-24T13:42:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0010s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:42:12+08:00 ] 127.0.0.1 //index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0011s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:54:13+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:55:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0019s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:55:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+
+[ 2016-11-24T13:55:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000203s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0013s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0007s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0004s ]
+
+[ 2016-11-24T13:55:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0020s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:55:22+08:00 ] 127.0.0.1 //index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0019s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:55:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000188s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0019s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:55:27+08:00 ] 127.0.0.1 /index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0018s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0006s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:55:37+08:00 ] 127.0.0.1 /index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0022s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:55:39+08:00 ] 127.0.0.1 /index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+ERR: 无法加载控制器:Accument
+
+[ 2016-11-24T13:55:55+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-11-24T13:55:59+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-11-24T13:56:02+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-24T13:56:13+08:00 ] 127.0.0.1 /Api/index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:56:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0020s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:56:21+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-24T13:56:23+08:00 ] 127.0.0.1 /Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0016s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T13:58:46+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000197s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T13:58:56+08:00 ] 127.0.0.1 /Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0012s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+
+[ 2016-11-24T13:59:12+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2016-11-24T13:59:31+08:00 ] 127.0.0.1 /Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000193s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0029s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0008s ]
+
+[ 2016-11-24T14:00:27+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2016-11-24T14:00:38+08:00 ] 127.0.0.1 //Api/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T14:01:17+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-24T14:01:21+08:00 ] 127.0.0.1 //Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_advert` [ RunTime:0.0022s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 1 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0009s ]
+SQL: SELECT `name`,`desc`,`img`,`ext`,`skip_content` FROM `p_advert` WHERE `type` = 2 AND `status` = 1 ORDER BY sort ASC,id DESC LIMIT 0,20   [ RunTime:0.0006s ]
+
+[ 2016-11-24T14:03:46+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:03:47+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:03:48+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:10:16+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: time /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 88 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 101 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php on line 72 and defined /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-11-24T14:10:17+08:00 ] 127.0.0.1 /Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Users/tanchangwei/www/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-11-24T14:10:20+08:00 ] 127.0.0.1 /Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:12:25+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8] Undefined index: time /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 88 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 101 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php on line 72 and defined /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:12:26+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+NOTIC: [8] Undefined index: time /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 88 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php 第 101 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /Users/tanchangwei/www/Phebe/Application/Api/Controller/BaseController.class.php on line 72 and defined /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /Users/tanchangwei/www/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:13:22+08:00 ] 127.0.0.1 /Index?callback=jQuery18308828738957432498_1479968002491&_=1479968002648
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:13:24+08:00 ] 127.0.0.1 /Index?callback=jQuery18305861730882897045_1479968004096&_=1479968004134
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:13:46+08:00 ] 127.0.0.1 /Index?callback=jQuery183096968994345596_1479968026298&_=1479968026326
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:13:48+08:00 ] 127.0.0.1 /Index?callback=jQuery1830611894882298917_1479968028651&_=1479968028676
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:13:53+08:00 ] 127.0.0.1 /Index?callback=jQuery183002851926378774583_1479968033466&_=1479968033494
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-11-24T14:15:01+08:00 ] 127.0.0.1 /Index?callback=jQuery18305468087529869896_1479968100833&_=1479968101288
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:15:04+08:00 ] 127.0.0.1 /Index?callback=jQuery18303173399862246056_1479968104729&_=1479968104756
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000196s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:16:09+08:00 ] 127.0.0.1 /Index?callback=jQuery183003957888840785828_1479968167983&_=1479968169118
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:20:08+08:00 ] 127.0.0.1 /Index?callback=jQuery183019012529001697365_1479968384065&_=1479968408944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:21:38+08:00 ] 127.0.0.1 /Index?callback=jQuery18303559450825505319_1479968498154&_=1479968498169
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:22:15+08:00 ] 127.0.0.1 /Index?callback=jQuery18305057063926487_1479968532253&_=1479968535292
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:27:13+08:00 ] 127.0.0.1 /Index?callback=jQuery18306001171017288389_1479968832623&_=1479968833643
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:27:40+08:00 ] 127.0.0.1 /Index?callback=jQuery18306596377643589946_1479968860644&_=1479968860665
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-11-24T14:27:42+08:00 ] 127.0.0.1 /Index?callback=jQuery18307799705359609177_1479968862079&_=1479968862103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-11-24T14:27:43+08:00 ] 127.0.0.1 /Index?callback=jQuery18305047659435902843_1479968863578&_=1479968863597
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:27:44+08:00 ] 127.0.0.1 /Index?callback=jQuery18303958725930367806_1479968864158&_=1479968864177
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:27:44+08:00 ] 127.0.0.1 /Index?callback=jQuery18306012509993590713_1479968864404&_=1479968864420
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:27:44+08:00 ] 127.0.0.1 /Index?callback=jQuery18307263599225704884_1479968864631&_=1479968864650
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:03+08:00 ] 127.0.0.1 /Index?callback=jQuery18307076769379955463_1479968883382&_=1479968883397
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:36+08:00 ] 127.0.0.1 /Index/config?callback=jQuery183011061538561411721_1479968916412&_=1479968916700
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+ERR: 非法操作:config
+
+[ 2016-11-24T14:28:36+08:00 ] 127.0.0.1 /Index?callback=jQuery183011061538561411721_1479968916413&_=1479968916704
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:37+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18302805552876799988_1479968917772&_=1479968917783
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+ERR: 非法操作:config
+
+[ 2016-11-24T14:28:37+08:00 ] 127.0.0.1 /Index?callback=jQuery18302805552876799988_1479968917773&_=1479968917789
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:38+08:00 ] 127.0.0.1 /Index/config?callback=jQuery183015068319437617883_1479968918157&_=1479968918170
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+ERR: 非法操作:config
+
+[ 2016-11-24T14:28:38+08:00 ] 127.0.0.1 /Index?callback=jQuery183015068319437617883_1479968918158&_=1479968918175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:40+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18308580446961145172_1479968920679&_=1479968920695
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+ERR: 非法操作:config
+
+[ 2016-11-24T14:28:40+08:00 ] 127.0.0.1 /Index?callback=jQuery18308580446961145172_1479968920680&_=1479968920703
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:28:45+08:00 ] 127.0.0.1 /Index/config?callback=jQuery183032904316674580714_1479968925461&_=1479968925475
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+ERR: 非法操作:config
+
+[ 2016-11-24T14:28:45+08:00 ] 127.0.0.1 /Index?callback=jQuery183032904316674580714_1479968925462&_=1479968925482
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:29:49+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18309763590969853313_1479968988370&_=1479968989339
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+
+[ 2016-11-24T14:29:49+08:00 ] 127.0.0.1 /Index?callback=jQuery18309763590969853313_1479968988371&_=1479968989344
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:30:05+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18305159448393810226_1479969005701&_=1479969005714
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-11-24T14:30:05+08:00 ] 127.0.0.1 /Index?callback=jQuery18305159448393810226_1479969005702&_=1479969005721
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:30:34+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18305245332531786522_1479969034083&_=1479969034093
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+
+[ 2016-11-24T14:30:34+08:00 ] 127.0.0.1 /Index?callback=jQuery18305245332531786522_1479969034084&_=1479969034101
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-11-24T14:31:00+08:00 ] 127.0.0.1 /Index/config?callback=jQuery18303837410035575979_1479969060163&_=1479969060173
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-24T14:31:00+08:00 ] 127.0.0.1 /Index?callback=jQuery18303837410035575979_1479969060164&_=1479969060182
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:49:33+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000193s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-11-24T14:49:48+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:50+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:50+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:51+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:51+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:51+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:51+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-24T14:49:51+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:52+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:52+08:00 ] 127.0.0.1 //
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 AND `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-24T14:49:55+08:00 ] 127.0.0.1 /index.php/Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载控制器:Api
+

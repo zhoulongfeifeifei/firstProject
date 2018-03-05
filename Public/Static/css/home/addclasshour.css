@@ -1,0 +1,27 @@
+.teacherinfirmation-li1 span:nth-child(1){
+	float: left;
+}
+.teacherinfirmation-li1 span:nth-child(2){
+	float: right;
+	margin-right: 0.2rem;
+}
+.teacherinfirmation-list .teacherinfirmation-li4 img{
+	width: 0.11rem;
+	height: 0.2rem;
+}
+#workdate{
+	width: 0.25rem;
+	height: 0.25rem;
+}
+#student_grade{
+	float: right;
+	border:0;
+	height: 0.38rem;
+	outline: medium;
+	float: right; 
+	background:#fff;
+	width:30%;
+	appearance:none;   
+	-moz-appearance:none;   
+	-webkit-appearance:none;
+}

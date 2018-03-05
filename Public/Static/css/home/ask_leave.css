@@ -1,0 +1,266 @@
+body{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+select{
+	appearance:none;   
+	-moz-appearance:none;   
+	-webkit-appearance:none;
+	font-size: 0.15rem;
+}
+input{
+	font-size: 0.15rem;
+	color: #7d7d7d;
+}
+textarea{
+	font-size: 0.15rem;
+	color: #7d7d7d;
+}
+.ask_leave{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.ask-leave-list{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: #eee;
+}
+
+#agency_lists,#leave_type,#leave_start_time,#leave_end_time,#pass_user{
+	background:#fff;
+	appearance:none;   
+	-moz-appearance:none;   
+	-webkit-appearance:none;
+}
+.ask-leave-list li{
+	width: 98%;
+	height: 0.4rem;
+	padding-left:0.2rem;
+	background: #fff; 
+	margin: 0.01rem 0;
+	font-size: 0.15rem;
+	color: #3f3f3f;
+	line-height: 0.4rem;
+}
+.ask-leave-list li input{
+	border:0;
+	width: 60%;
+	height: 0.38rem;
+	outline: medium;
+	float: right;
+}
+.ask-leave-list li select{
+	border:0;
+	width: 40%;
+	height: 0.38rem;
+	outline: medium;
+	float: right;
+	color: #7d7d7d;
+}
+.ask-leave-list li select option{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.ask-leave-list li img{
+	float: right;
+	margin-right: 0.4rem;
+	margin-top: 0.08rem;
+	width: 0.11rem;
+	height: 0.2rem;
+}
+.ask-leave-list .ask-leave-reason{
+	height: 1.44rem;
+}
+.ask-leave-list .ask-leave-reason span{
+	height: 1.44rem;
+	float: left;
+}
+.ask-leave-list .ask-leave-reason textarea{
+	width: 60%;
+	float: right;
+	margin-right: 0.4rem;
+	resize : none;	
+	border: 0;
+	outline: medium;
+	line-height: 0.2rem;
+	margin-top: 0.1rem;
+}
+.ask-leave-do{
+	width: 80%;
+	height: 0.32rem;
+	margin:0 auto;
+	margin-top: 0.42rem;
+}
+.ask-leave-do span{
+	width:45%;
+	height: 0.32rem;
+	display: block;
+	margin:0 auto;
+	font-size: 0.16rem;
+	line-height: 0.32rem;
+	text-align: center;
+	border-radius: 0.05rem;
+	background: #55c5d5;
+	color: #fff;
+}
+.ask-leave-list .addStyle{
+	margin:0.1rem 0;
+}
+.approver-information,.ag-information,.teacher-information{
+	width: 94%;
+	height: 3.75rem;
+	position: absolute;
+	left: 3%;
+	top: 50%;
+	margin-top: -1.87rem;
+	background: #fff;
+	display: none;
+}
+.approver-title,.ag-title{
+	width: 100%;
+	height: 0.35rem;
+	background: #eee;
+	color: #3f3f3f;
+	font-size: 0.16rem;
+	line-height: 0.35rem;
+	text-align: center;
+	border-radius: 0.05rem;
+}
+.approver-list,.ag-list,.teacher-list{
+	width: 100%;
+	height: 2rem;
+	margin-top: 0.1rem;
+	overflow: auto;
+}
+.approver-list li{
+	width: 80%;
+	height: 0.32rem;
+	padding: 0 10%;
+	font-size: 0.14rem;
+	color: #7d7d7d;
+	line-height: 0.32rem;
+}
+.teacher-list li{
+	width: 80%;
+	height: 0.32rem;
+	padding: 0 10%;
+	font-size: 0.14rem;
+	color: #7d7d7d;
+	line-height: 0.32rem;
+}
+.ag-list li{
+	width: 80%;
+	height: 0.32rem;
+	padding: 0 10%;
+	font-size: 0.14rem;
+	color: #7d7d7d;
+	line-height: 0.32rem;
+}
+.approver-list li img{
+	width: 0.17rem;
+	height: 0.17rem;
+	margin-top: 0.1rem;
+	float: right;
+}
+.teacher-list li img{
+	width: 0.17rem;
+	height: 0.17rem;
+	margin-top: 0.1rem;
+	float: right;
+}
+.ag-list li img{
+	width: 0.17rem;
+	height: 0.17rem;
+	margin-top: 0.1rem;
+	float: right;
+}
+.approver-list .approve-li-style{
+	background: #eee;
+}
+.ag-list .ag-li-style{
+	background: #eee;
+}
+.teacher-list .teacher-li-style{
+	background: #eee;
+}
+.approver-btn,.teacher-btn{
+	width: 80%;
+	height: 0.32rem;
+	margin: 0 auto;
+	margin-top: 0.45rem;
+}
+.ag-btn{
+	width: 80%;
+	height: 0.32rem;
+	margin: 0 auto;
+	margin-top: 0.45rem;
+}
+.approver-btn span{
+	float: left;
+	width: 46%;
+	height: 0.32rem;
+	color: #fff;
+	line-height: 0.32rem;
+	text-align: center;
+	border-radius: 0.05rem;
+}
+.teacher-btn span{
+	float: left;
+	width: 46%;
+	height: 0.32rem;
+	color: #fff;
+	line-height: 0.32rem;
+	text-align: center;
+	border-radius: 0.05rem;
+}
+.ag-btn span{
+	float: left;
+	width: 46%;
+	height: 0.32rem;
+	color: #fff;
+	line-height: 0.32rem;
+	text-align: center;
+	border-radius: 0.05rem;
+}
+.approver-cancel,.ag-cancel,.teacher-cancel{
+	background: #ff3846;
+}
+.approver-do,.ag-do,.teacher-do{
+	background: #55c5d5;
+	margin-left: 0.09rem;
+}
+.approver-prompt,.ag-prompt{
+	width: 100%;
+	height: 0.13rem;
+	color: #7d7d7d;
+	text-align: center;
+	font-size: 0.13rem;
+	margin-top: 0.09rem;
+}
+.getOut{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: rgba(0,0,0,.5);
+	z-index: 100;
+	display: none;
+}
+#ag_list,#approver,#leave_start_time,#leave_end_time{
+	width: 60%;
+	height: 0.4rem;
+	float: right;
+	text-align: center;
+	color: #7d7d7d;
+}
+.getOut1{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: rgba(0,0,0,.5);
+	z-index: 100;
+	display: none;
+}

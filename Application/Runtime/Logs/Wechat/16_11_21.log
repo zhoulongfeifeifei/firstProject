@@ -1,0 +1,537 @@
+[ 2016-11-21T13:52:45+08:00 ] 183.157.160.212 /Phebe/Public/Wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: signature /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 21 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 22 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-21T13:53:03+08:00 ] 58.247.206.153 /Phebe/Public/Wechat?signature=34ff1403d6a81f0885e13b622e91e8d7e682b499&echostr=7057838954136453055&timestamp=1479707583&nonce=1383257201
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-11-21T13:57:07+08:00 ] 58.247.206.151 /Phebe/Public/Wechat?signature=8ab5c27bf35b2c1b6cd736f2eb866fd96e6eff07&timestamp=1479707827&nonce=1701920751&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-21T13:57:29+08:00 ] 183.157.160.212 /Phebe/Public/Wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: signature /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 21 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 22 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-21T13:58:34+08:00 ] 183.157.160.212 /Phebe/Public/Wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: signature /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 21 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 22 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+ERR: SQLSTATE[42000] [1049] Unknown database 'edu'
+
+[ 2016-11-21T13:58:53+08:00 ] 183.157.160.212 /Phebe/Public/Wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: signature /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 21 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 22 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: UPDATE `p_wechat_users` SET `no_read_msg`=no_read_msg+1 WHERE `openid` = null [ RunTime:0.0002s ]
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-11-21T13:59:14+08:00 ] 58.247.206.151 /Phebe/Public/Wechat?signature=f47f643fa0d0e2e4b8e07a768bc78c9d2795147e&timestamp=1479707953&nonce=1873344122&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 115 行.
+SQL: INSERT INTO `p_wechat_users` (`subscribe`,`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`remark`,`groupid`,`tagid_list`,`recommend_id`) VALUES ('1','obvQHwgf95-5daaVueoRhXBEsI8Y','慧彼星','1','zh_CN','杭州','浙江','中国','http://wx.qlogo.cn/mmopen/PkXKn1XrJvSfoQeZ8vbwPbNs2aD8iaRTR0HJS0tE0ia8ZP5ibJ2wEbW63LsW3M14ox05muagicqE44laNC4yu2kTGzmWkYMiboXgM/0','1479707953','','0','a:0:{}','0') [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 1 /var/www/html/Phebe/Application/Common/Common/function.php 第 37 行.
+NOTIC: [2] fopen(./Static/data/uploads/qrcode/obvQHwgf95-5daaVueoRhXBEsI8Y_qrcode.jpg): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/WechatController.class.php 第 321 行.
+SQL: SHOW COLUMNS FROM `p_wechat_message_revert` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_wechat_message_revert` WHERE `receive_type` = 1 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-11-21T14:00:40+08:00 ] 58.247.206.146 /Phebe/Public/Wechat?signature=5e6ddf31b28fcbe38470c27bf94962aee5440644&timestamp=1479708039&nonce=1420686828&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwnEBZncgOKlVrV5dLq5lB5U' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 115 行.
+SQL: INSERT INTO `p_wechat_users` (`subscribe`,`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`remark`,`groupid`,`tagid_list`,`recommend_id`) VALUES ('1','obvQHwnEBZncgOKlVrV5dLq5lB5U','周龙飞','1','zh_CN','杭州','浙江','中国','http://wx.qlogo.cn/mmopen/EEkRHXtHoLJQjO46WPzX0ibkXicqcQGVGDg3bhYZdWhaUsSLEzVuL00qlA4VPSuiaV7GDK2l4rMg1ialrQ12tWclXkibqY6soG1Nr/0','1479708039','','0','a:0:{}','0') [ RunTime:0.0036s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 1 /var/www/html/Phebe/Application/Common/Common/function.php 第 37 行.
+NOTIC: [2] fopen(./Static/data/uploads/qrcode/obvQHwnEBZncgOKlVrV5dLq5lB5U_qrcode.jpg): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/WechatController.class.php 第 321 行.
+SQL: SHOW COLUMNS FROM `p_wechat_message_revert` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_message_revert` WHERE `receive_type` = 1 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-11-21T14:00:50+08:00 ] 58.247.206.148 /Phebe/Public/Wechat?signature=326f1cb5934fc058a747e7bd601712eff04b4504&timestamp=1479708050&nonce=660777581&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-11-21T14:00:55+08:00 ] 58.247.206.152 /Phebe/Public/Wechat?signature=94dd1b5a4a61d9f0c9e721fcb46eb54b8ad73520&timestamp=1479708055&nonce=1902478987&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-11-21T14:02:08+08:00 ] 58.247.206.153 /Phebe/Public/Wechat?signature=c300923c377e0ddbf83fd447e51c682a4d6a98cb&timestamp=1479708128&nonce=1792524630&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-11-21T14:02:30+08:00 ] 58.247.206.143 /Phebe/Public/Wechat?signature=531bf5efab26bffc025ae80030b6b27faf2ef062&timestamp=1479708150&nonce=847280587&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-11-21T14:02:45+08:00 ] 58.247.206.158 /Phebe/Public/Wechat?signature=02438cc041d25d7a5c130e8adf60281d41dd383f&timestamp=1479708165&nonce=565106949&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-11-21T14:02:57+08:00 ] 58.247.206.143 /Phebe/Public/Wechat?signature=badf82f3036c47c786521e26629f4d35d2da8a94&timestamp=1479708177&nonce=1622791975&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-11-21T14:12:10+08:00 ] 58.247.206.143 /Wechat?signature=0c57deb108411c2d7fa2c08aa6edf96a78a7955c&echostr=1619881397747110587&timestamp=1479708730&nonce=471606184
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+
+[ 2016-11-21T14:13:16+08:00 ] 58.247.206.156 /Wechat?signature=20409cd49823e9010b589c19fa0701cc8e0b3ec6&timestamp=1479708796&nonce=1494346930&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-11-21T14:13:26+08:00 ] 112.65.193.14 /Wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+NOTIC: [8] Undefined index: signature /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 21 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 22 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0008s ]
+SQL: UPDATE `p_wechat_users` SET `no_read_msg`=no_read_msg+1 WHERE `openid` = null [ RunTime:0.0002s ]
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-11-21T14:22:32+08:00 ] 58.247.206.142 /Wechat?signature=4d0f08e5db557a0c68cb360f350b018ad712b7ab&timestamp=1479709351&nonce=1963712353&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 115 行.
+SQL: INSERT INTO `p_wechat_users` (`subscribe`,`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`remark`,`groupid`,`tagid_list`,`recommend_id`) VALUES ('1','obvQHwlF3Sh1CE0VclnLZO6pC0w0','罗小chao','1','zh_CN','浦东新区','上海','中国','http://wx.qlogo.cn/mmopen/ajNVdqHZLLAtgrBGIO5re9XpqgibmpHUtpnsUsxbDkw4cvle2FPz0k6WyI9cXsnOjfHLtG7EfT3snbjwfhYxMcw/0','1479709351','','0','a:0:{}','0') [ RunTime:0.0037s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 43 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 1 /var/www/html/Phebe/Application/Common/Common/function.php 第 37 行.
+SQL: UPDATE `p_wechat_users` SET `qrcode_img`='/Static/data/uploads/qrcode/obvQHwlF3Sh1CE0VclnLZO6pC0w0_qrcode.jpg',`qrcode_time`='1479709252' WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `p_wechat_message_revert` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_message_revert` WHERE `receive_type` = 1 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-11-21T14:22:34+08:00 ] 58.247.206.158 /Wechat?signature=84e8f45504aab86f9cbf1600861e47b2c5cd82e9&timestamp=1479709354&nonce=437990445&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-11-21T14:22:35+08:00 ] 58.247.206.153 /Wechat?signature=87e1c4c076599353e25d3b07113e74dec59c4372&timestamp=1479709355&nonce=547845373&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-11-21T14:22:44+08:00 ] 58.247.206.153 /Wechat?signature=6881cd16bcda9913c10b7e3821aa3a9914e31a89&timestamp=1479709364&nonce=83327684&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-11-21T14:22:49+08:00 ] 58.247.206.153 /Wechat?signature=99bfbfcfabe22234d6e7b390931ce140a5718e2e&timestamp=1479709369&nonce=1784934761&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-11-21T14:23:03+08:00 ] 58.247.206.143 /Wechat?signature=3899021aa2cdc6fff2d2adb46b00aad758d9ffa8&timestamp=1479709383&nonce=1614527804&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-11-21T14:23:10+08:00 ] 58.247.206.153 /Wechat?signature=3e4ffe3380cbc650fd6d70a416a3ae0e7d404af0&timestamp=1479709390&nonce=1922653498&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-11-21T14:23:40+08:00 ] 58.247.206.147 /Wechat?signature=6ed8d4dc47a8fa7237cb98e1da201fb39d77ec6a&timestamp=1479709420&nonce=1210564990&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-21T14:23:54+08:00 ] 58.247.206.144 /Wechat?signature=7be76616ff0b8c73aa96513be3636adf000305a6&timestamp=1479709434&nonce=1307546351&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-21T14:24:01+08:00 ] 58.247.206.143 /Wechat?signature=40ff12e7673d906236989ff98f4889339c895359&timestamp=1479709441&nonce=1782098673&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2016-11-21T14:24:07+08:00 ] 58.247.206.158 /Wechat?signature=4781a9f8318dfaaedd3ced9e6000454176bd837d&timestamp=1479709447&nonce=598425315&openid=obvQHwnEBZncgOKlVrV5dLq5lB5U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-11-21T14:30:48+08:00 ] 58.247.206.156 /Wechat?signature=d7488addf1e9537ba2e346a6c8424129ae2a1fd4&timestamp=1479709848&nonce=495688561&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined index: Event /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: UPDATE `p_wechat_users` SET `no_read_msg`=no_read_msg+1 WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `p_wechat_message` [ RunTime:0.0005s ]
+SQL: INSERT INTO `p_wechat_message` (`type`,`from`,`to`,`create_time`,`content`,`MsgId`) VALUES ('1','obvQHwgf95-5daaVueoRhXBEsI8Y','gh_db3668c953ce','1479709848','恩','6355305405138346545') [ RunTime:0.0025s ]
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+SQL: SHOW COLUMNS FROM `p_wechat_message_revert` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_message_revert` WHERE `receive_type` = 0 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-11-21T14:36:23+08:00 ] 58.247.206.158 /Wechat?signature=fd9a2909ead52548bc54de63b319327653519b91&timestamp=1479710183&nonce=2034589305&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-11-21T14:36:55+08:00 ] 58.247.206.143 /Wechat?signature=dc6e093eb4192afb77426616938db69a27cbcc71&timestamp=1479710215&nonce=111264610&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-21T14:37:08+08:00 ] 58.247.206.153 /Wechat?signature=957e518bd16f54ff72a4f35c779835d6f4485635&timestamp=1479710228&nonce=111324760&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-11-21T14:40:38+08:00 ] 58.247.206.141 /Wechat?signature=80b7ae9c507e05c383e5e155b105a157a7010014&timestamp=1479710438&nonce=345294735&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2016-11-21T14:40:53+08:00 ] 58.247.206.146 /Wechat?signature=a5c38f18e8a1b34425ea7687cad8db3148d58f45&timestamp=1479710453&nonce=491062671&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-11-21T14:49:18+08:00 ] 58.247.206.153 /Wechat?signature=bd41f0c513b48460869e408b4fbafb77f0669804&timestamp=1479710958&nonce=1357653285&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-21T14:49:38+08:00 ] 58.247.206.158 /Wechat?signature=4c013c66ec7af43a315e17f5dd70b70dbb86bca2&timestamp=1479710978&nonce=299998408&openid=obvQHwlF3Sh1CE0VclnLZO6pC0w0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-11-21T19:13:20+08:00 ] 58.247.206.146 /Wechat?signature=8e3aa9d80d00fea26d593c33d3c2971bedb866f3&timestamp=1479726800&nonce=1084898064&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-21T19:13:32+08:00 ] 58.247.206.156 /Wechat?signature=e1b6b0bda3c1e4037969455b804f3a55440c8782&timestamp=1479726812&nonce=1057786627&openid=obvQHwgf95-5daaVueoRhXBEsI8Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Phebe/Application/Wechat/Controller/IndexController.class.php 第 30 行.
+NOTIC: [2] file_put_contents(./log.xml): failed to open stream: Permission denied /var/www/html/Phebe/Application/Wechat/Controller/BaseController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+

@@ -1,0 +1,215 @@
+.banner-top{
+	border-bottom: 0.01rem solid #d4d4d4;
+	padding-bottom:0;
+}
+.banner-top-content{
+	background: #fff;
+}
+.banner-top-content li{
+	width: 33%;
+}
+.banner-select{
+	color: #4fbfcf;
+	font-weight: bold;
+}
+.banner-top-content li img{
+	margin: 0.1rem 0.8rem;
+}
+..content-kebiao{
+	margin: 0.1rem 0;
+}
+#kebiao-li-first{
+background: #4fbfcf;
+color: #fff;
+height: 100%;
+}
+ .kebiao-li-bg{
+	background: #65e3a3;
+}
+.getOut,.getOut2{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.5);
+	display: none;
+	position:fixed;
+	left: 0;
+	top: 0;
+	z-index: 102;
+	overflow: hidden;
+}
+.has_course{
+	width: 81%;
+	height: 3rem;
+	margin:0 auto;
+	position:fixed;
+	z-index: 999;
+	left: 9.5%;
+	top:50%;
+	margin-top: -1.5rem;
+	background: #fff;
+	border-radius: 0.05rem;
+	overflow: hidden;
+	display: none;
+}
+.has_course p{
+	width: 100%;
+	height: 0.35rem;
+	background: #eee;
+}
+.has-course-list{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.has-course-list li{
+	width: 85%;
+	height: 0.35rem;
+	padding-left: 5%;
+	margin: 0 5%;
+	color: #3f3f3f;
+	font-size: 0.16rem;
+	border-bottom: 0.01rem solid #c9c9c9;
+	line-height: 0.35rem
+}
+.has-course-list li input{
+	outline: medium;
+	border:0;
+	width: 70%;
+	height: 0.3rem;
+}
+.has-course-btn{
+	width: 82%;
+	height: 0.32rem;
+	margin: 0.15rem auto;
+}
+.has-course-btn button{
+	width: 48%;
+	height: 0.32rem;
+	border-radius: 0.05rem;
+	font-size: 0.16rem;
+	line-height: 0.32rem;
+	text-align: center;
+	color: #fff;
+	float: left;
+	border: 0;
+}
+.has-course-cancel{
+	background: #ff3846;
+}
+.has-course-do{
+	background: #65d3e3;
+	margin-left: 0.09rem;
+}
+.dateChange{
+	width: 72%;
+	height: 3.7rem;
+	margin:0 auto;
+	position:fixed;
+	z-index: 999;
+	left: 14%;
+	top:50%;
+	margin-top: -1.8rem;
+	background: #fff;
+	border-radius: 0.05rem;
+	overflow: hidden;
+	display: none;
+}
+.date-list{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.date-list li{
+	width: 90%;
+	height: 0.32rem;
+	margin: 0.1rem 5% 0 5%;
+	color: #3f3f3f;
+	font-size: 0.16rem;
+	line-height: 0.35rem;
+	background: #eee;
+	border-radius: 0.05rem;
+	text-align: center;
+}
+.date-list .dateChange-li{
+	background: #65d3e3;
+}
+.date-btn{
+	width: 90%;
+	height: 0.32rem;
+	margin: 0.15rem auto;
+}
+.date-btn span{
+	width: 46%;
+	height: 0.32rem;
+	border-radius: 0.05rem;
+	font-size: 0.16rem;
+	line-height: 0.32rem;
+	text-align: center;
+	color: #fff;
+	float: left;
+}
+.date-cancel{
+	background: #ff3846;
+}
+.date-do{
+	background: #65d3e3;
+	margin-left: 0.1rem;
+}
+.courseChange{
+	width: 80%;
+	height: 2.38rem;
+	margin:0 auto;
+	position:fixed;
+	z-index: 999;
+	left: 10%;
+	top:50%;
+	margin-top: -1.19rem;
+	background: #fff;
+	border-radius: 0.05rem;
+	overflow: hidden;
+	display: none;
+}
+.courseChange p{
+	width: 100%;
+	height: 0.35rem;
+	line-height: 0.35rem;
+	text-align: center;
+	font-size: 0.16rem;
+	color: #3f3f3f;
+	background: #eee;
+}
+.changeDo{
+	width: 100%;
+	height: 0.16rem;
+	line-height: 0.16rem;
+	text-align: center;
+	font-size: 0.13rem;
+	color: #3f3f3f;
+	background: #fff;
+	margin-top: 0.2rem;
+}
+.courseChange-list{
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 0.5rem;
+}
+.courseChange-list li{
+	width: 46%;
+	height: 0.32rem;
+	border-radius: 0.05rem;
+	font-size: 0.16rem;
+	line-height: 0.32rem;
+	text-align: center;
+	color: #fff;
+	float: left;
+	margin-top: 0.1rem;
+}
+.hasCourse,.selectCourse{
+	background: #ff3846;
+}
+.addCourse,.xuCourse{
+	background: #65d3e3;
+	margin-left: 0.1rem;
+}

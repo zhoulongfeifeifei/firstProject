@@ -1,0 +1,282 @@
+body{
+	width: 100%;
+	height: 100%;
+}
+.month-report{
+	width: 100%;
+	height: 0.48rem;
+}
+.month-header{
+	width: 50%;
+	height: 0.48rem;
+	float: left;
+	font-size: 0.16rem;
+	line-height: 0.48rem;
+	text-align: center;
+	background: #e7f5ff;
+	color: #3f3f3f;
+}
+.add_class{
+	background: #55c5d5;
+	color: #fff
+}
+/*本月课时信息*/
+.has_course{
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	display: block;
+}
+.course-hour-information{
+	width: 90%;
+	height: 0.45rem;
+	padding: 0 5%;
+	background: #fff;
+	font-size:0.13rem;
+	color: #3f3f3f;
+}
+.course-hour-information p{
+	height: 0.45rem;
+	display: flex;
+	align-items: center;
+}
+.course-hour-information p:nth-child(1){
+	float: left;
+}
+.course-hour-information p:nth-child(2){
+
+	float: right;
+}
+.course-hour-information p:nth-child(2) img{
+	width: 0.27rem;
+	height: 0.27rem;
+	margin-left:0.1rem;
+}
+.take-hour{
+	width: 100%;
+	height: 0.38rem;
+	background: #fff;
+	margin-top: 0.1rem;
+}
+.take-hour span{
+	height: 0.38rem;
+	float: right;
+	font-size: 0.13rem;
+	color: #7d7d7d;
+	line-height: 0.38rem;
+	text-align: center;
+}
+.take-hour span:nth-child(1){
+	width: 25%;
+	margin-right: 0.11rem;
+}
+.take-hour span:nth-child(2){
+	width: 20%;
+}
+.date-information{
+	width: 100%;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;
+	margin-top: 0.1rem;
+}
+.course-date{
+	width: 90%;
+	height: 0.38rem;
+	padding: 0 5%;
+	background: #fff;
+	line-height: 0.38rem;
+	border-top: 0.01rem solid #c9c9c9;
+	display: flex;
+} 
+.course-date img{
+	width: 0.15rem;
+	height: 0.15rem;
+	margin: 0.1rem 0.1rem 0 0;
+}
+.course-information{
+	width: 90%;
+	height: 1.4rem;
+	padding: 0 5%;
+	background: #fff;
+	border-top: 0.01rem solid #c9c9c9;
+}
+.course-information li{
+	width: 100%;
+	font-size: 0.13rem;
+	color: #3f3f3f;
+}
+.course-information li span{
+	color: #7d7d7d;
+}
+.course-information li:nth-child(1){
+	height: 0.33rem;
+	font-size: 0.16rem;
+	font-weight: bolder;
+	line-height: 0.33rem;
+	padding-top: 0.1rem;
+}
+.course-information li:nth-child(2){
+	height: 0.3rem;
+	line-height: 0.3rem;
+}
+.course-content{
+	height: : 0.38rem;
+	overflow: hidden;
+}
+.course-content span:nth-child(1){
+	width: 18%;
+	height: 0.38rem;
+	float: left;
+	color: #3f3f3f;
+}
+.course-content span:nth-child(2){
+	float: right;
+	width: 78%;
+	height: 0.38rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.course-information li:nth-child(4){
+	height: 0.3rem;
+	line-height: 0.3rem;
+}
+/*未到记录信息*/
+.wait_infor{
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	display: none;
+}
+.wait_header{
+	width: 90%;
+	height: 0.45rem;
+	font-size: 0.15rem;
+	padding: 0 5%;
+	background: #fff;
+}
+.wait_header li{
+	line-height: 0.45rem;
+	display: flex;
+}
+.wait_header li:nth-child(1){
+	float: left;
+}
+.wait_header li select{
+	color: #4fbfcf;
+	font-weight: bold;
+	font-size:0.15rem;
+	border:0px;
+	appearance:none;   
+	-moz-appearance:none;   
+	-webkit-appearance:none;
+}
+.wait_header li:nth-child(2){
+	color: #3f3f3f;
+	float: right;
+}
+.calendar{
+	margin:0.10rem 0 0 0.1rem ;
+	width:0.25rem;
+	height:0.25rem;
+}
+.infor{
+	width: 100%;
+	height: 100%;	
+}
+.tail_infor{
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	margin-top: 0.1rem;
+}
+.tail_infor p{
+	width: 90%;
+	padding: 0 5%;
+	height: 0.35rem;
+	color: #3f3f3f;
+	font-size: 0.13rem;
+	line-height: 0.35rem;	
+	background: #fff;
+	display: flex;
+	align-items: center;
+	border-top: 1px solid #c9c9c9;
+	border-bottom: 1px solid #eee;
+}
+#clock{
+	width: 0.2rem;
+	height: 0.2rem;
+    display: flex;
+}
+#clock img{
+	width:100%;
+ }
+.tail_infor p span:nth-child(2){
+	margin-left: 0.1rem;
+	flex: 1;
+}
+.calendar1{
+   width:0.16rem;
+}
+.calendar1 img{
+   width:100%; 
+}
+.calendar2{
+	height: 0.16rem;
+	margin-top: -0.1rem;
+}
+.calendar2 img{
+   height:100%; 
+}
+.tail_course{
+	width: 90%;
+	padding: 0 5%;
+	height: 0.85rem;	
+	background: #fff;
+	border-bottom: 1px solid #c9c9c9;
+}
+.tail_course_list{
+	width: 50%;
+	height: 0.85rem;
+	float: left;
+}
+.tail_course_list li{
+	width: 100%;
+}
+.tail_course_list li:nth-child(1){
+	height: 0.3rem;
+	margin-top: 0.075rem;
+	color: #3f3f3f;
+	font-size: 0.15rem;
+	font-weight: bolder;
+	line-height: 0.3rem;	
+}
+.tail_course_list li:nth-child(2){
+	height: 0.25rem;
+	color: #7d7d7d;
+	font-size: 0.13rem;
+	line-height: 0.25rem;	
+}
+.tail_course_list li:nth-child(3){
+	color: #7d7d7d;
+	font-size: 0.13rem;	
+}
+.make_up{
+	width: 50%;
+	height: 0.85rem;
+	float: right;
+}
+.make_up span{
+	width: 0.64rem;
+	height: 0.3rem;
+	color: #fff;
+	font-size: 0.15rem;
+	text-align: center;
+	line-height: 0.3rem;
+	background: #55c5d5;
+	border-radius: 0.05rem;
+	float: right;
+	margin-top: 0.3rem;
+	display: block;
+
+}

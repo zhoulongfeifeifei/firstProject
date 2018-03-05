@@ -1,0 +1,555 @@
+[ 2016-11-22T14:58:21+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+ERR: Class 'Api\Controller\AlibabaAliqinFcSmsNumSendRequest' not found
+
+[ 2016-11-22T14:58:33+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+
+[ 2016-11-22T14:58:52+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-11-22T14:59:00+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+
+[ 2016-11-22T15:07:34+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-22T15:11:57+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-11-22T15:22:58+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+
+[ 2016-11-22T15:23:03+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+
+[ 2016-11-22T15:25:50+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-11-22T15:26:38+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+
+[ 2016-11-22T15:27:52+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-22T15:29:14+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+
+[ 2016-11-22T15:30:06+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+
+[ 2016-11-22T15:30:22+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000198s ]
+
+[ 2016-11-22T15:31:29+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+
+[ 2016-11-22T15:31:51+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-22T15:32:00+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+
+[ 2016-11-22T15:32:10+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-11-22T15:32:12+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-11-22T15:32:19+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+
+[ 2016-11-22T15:32:32+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-11-22T15:33:08+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+
+[ 2016-11-22T15:33:10+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-11-22T15:33:11+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000189s ]
+
+[ 2016-11-22T15:33:17+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-22T15:33:21+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-11-22T15:33:23+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+
+[ 2016-11-22T15:33:24+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+
+[ 2016-11-22T15:33:24+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+
+[ 2016-11-22T15:33:25+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+
+[ 2016-11-22T15:33:32+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+
+[ 2016-11-22T15:33:46+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+
+[ 2016-11-22T15:33:53+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-11-22T15:34:14+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-11-22T15:35:18+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+
+[ 2016-11-22T15:35:27+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+
+[ 2016-11-22T15:35:33+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-11-22T15:36:52+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+
+[ 2016-11-22T15:37:42+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+
+[ 2016-11-22T15:37:51+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000197s ]
+
+[ 2016-11-22T15:38:04+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-11-22T15:38:09+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-11-22T15:38:52+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+
+[ 2016-11-22T15:39:19+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-11-22T16:08:30+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-11-22T16:09:02+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-22T16:28:05+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+
+[ 2016-11-22T16:28:36+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+
+[ 2016-11-22T16:29:35+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+
+[ 2016-11-22T16:30:07+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+
+[ 2016-11-22T17:28:30+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [2] file_get_contents(/Users/tanchangwei/Downloads/test.xlsx): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2016-11-22T17:28:32+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+NOTIC: [2] file_get_contents(/Users/tanchangwei/Downloads/test.xlsx): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-11-22T17:28:44+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [2] file_get_contents(/Users/tanchangwei/Downloads/test.xlsx): failed to open stream: Permission denied /Users/tanchangwei/www/Phebe/Application/Api/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2016-11-22T17:29:26+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-11-22T17:29:53+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+ERR: Class 'Api\Controller\PHPExcel_IOFactory' not found
+
+[ 2016-11-22T17:30:06+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+ERR: The filename ./test.xlsx is not recognised as an OLE file
+
+[ 2016-11-22T17:30:33+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+
+[ 2016-11-22T17:31:03+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-11-22T17:31:20+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+ERR: The filename ./test.xlsx is not recognised as an OLE file
+
+[ 2016-11-22T17:33:18+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+NOTIC: [8] Undefined variable: extension /Users/tanchangwei/www/Phebe/Application/Api/Controller/IndexController.class.php 第 43 行.
+ERR: The filename ./test.xlsx is not recognised as an OLE file
+
+[ 2016-11-22T17:33:23+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined variable: extension /Users/tanchangwei/www/Phebe/Application/Api/Controller/IndexController.class.php 第 43 行.
+ERR: The filename ./test.xlsx is not recognised as an OLE file
+
+[ 2016-11-22T17:33:55+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+
+[ 2016-11-22T17:34:09+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options /Users/tanchangwei/www/Phebe/ThinkPHP/Library/Vendor/PHPExcel/PHPExcel/Settings.php 第 384 行.
+

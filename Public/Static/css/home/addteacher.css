@@ -1,0 +1,171 @@
+.teacherinfirmation{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.teacherinfirmation-list{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: #eee;
+}
+.teacherinfirmation-list li{
+	width: 98%;
+	height: 0.4rem;
+	padding-left:0.2rem;
+	background: #fff; 
+	margin: 0.01rem 0;
+	font-size: 0.15rem;
+	color: #3f3f3f;
+	line-height: 0.4rem;
+}
+.teacherinfirmation-list li input{
+	border:0;
+	height: 0.38rem;
+	outline: medium;
+	float: right;
+}
+.teacherinfirmation-list li img{
+	float: right;
+	margin-right: 0.2rem;
+	margin-top: 0.1rem;
+	width: 0.53rem;
+	height: 0.2rem;
+}
+.teacherinfirmation-list .teacherinfirmation-li1{
+	margin:0.1rem 0;
+}
+.teacherinfirmation-list .teacherinfirmation-li2 input{
+	width: 60%;
+}
+.teacherinfirmation-list .teacherinfirmation-li2{
+	margin:0.1rem 0;
+}
+.teacherinfirmation-list .teacherinfirmation-li2 img{
+	width: 0.11rem;
+	height: 0.2rem;
+}
+#workdate{
+	width: 60%;
+	height: 0.25rem;
+	margin-top: 0.075rem;
+}
+.teacherinfirmation-list .teacherinfirmation-li3{
+	margin-bottom:0.1rem;
+	line-height: 0.4rem;
+}
+#workdateImg{
+	float: none;
+	width: 0.23rem;
+	height: 0.23rem;
+	margin-left: 0.17rem;
+}
+.information-btn{
+	width: 80%;
+	height: 0.57rem;
+	background: #fff;
+	padding:2.18rem 10% 0 10%;
+	color: #fff;
+}
+.information-btn1{
+	width:40%;
+	height: 0.32rem;
+	float: left;
+	margin-left: 5%;
+	font-size: 0.16rem;
+	line-height: 0.32rem;
+	text-align: center;
+	border-radius: 0.05rem;
+}
+.zezhao,.getOut{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.5);
+	position:fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	display: none;
+}
+.courselist{
+	width: 64%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top:0;
+	z-index: 999;
+	display: none;
+}
+.courselist-top{
+	width: 100%;
+	height: 0.5rem;
+	background: #55c5d5;
+	font-size: 0.16rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.5rem;
+}
+.courselist-list{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	overflow: hidden;
+}
+.courselist-li{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	font-size: 0.16rem;
+	color: #3f3f3f;
+	margin:0.2rem 0;
+}
+.aaa{
+	height: 0.4rem;
+	width: 100%;
+	overflow: hidden;
+}
+.coursename{
+	height: 0.4rem;
+	float: left;
+	text-align: center;
+	line-height: 0.4rem;
+	margin-left: 0.2rem;
+}
+.jiantou{
+	width: 0.12rem;
+	height: 0.15rem;
+	margin-top: 0.1rem;
+	float: right;
+	margin-right: 0.2rem;
+}
+.coursestyle{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.coursestyle li{
+	width: 100%;
+	height: 0.4rem;
+	background: #f8f8f8;
+	font-size: 0.14rem;
+}
+.coursestyle li span{
+	height: 0.4rem;
+	float: left;
+	text-align: center;
+	line-height: 0.4rem;
+	margin-left: 0.35rem;
+}
+.coursestyle li img{
+	width: 0.18rem;
+	height: 0.18rem;
+	margin-top: 0.1rem;
+	float: right;
+	margin-right: 0.2rem;
+}
+.coursename-select{
+	height: 0.4rem;
+	width: 100%;
+	background: #eee;
+	overflow: hidden;
+}

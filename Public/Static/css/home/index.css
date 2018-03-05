@@ -1,0 +1,159 @@
+body{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+a{
+	text-decoration: none;
+}
+.banner{
+	width: 100%;
+	height: 2.2rem;
+	overflow: hidden;
+}
+.banner-bg{
+	position: relative;
+}
+.banner-bg img{
+	width: 100%;
+	height: 100%;
+}
+.banner-bg .banner-conten{
+	height: 2.2rem;
+	width: 100%;
+	overflow: hidden;
+}
+.banner #banner-anniu{
+	margin-top: -0.3rem;
+	bottom:0.3rem;
+	height: 0.2rem;
+	display: block;
+}
+.banner-bg .banner-detail{
+	width: 80%;
+	height: 0.25rem;
+	padding: 0 10%;
+	position: absolute;
+	font-size: 0.12rem;
+	line-height: 0.25rem;
+	bottom: 0px;
+	color: #fff;
+	background: #000;
+	opacity: 0.3;
+}
+.main{
+	width: 100%;
+	height: 1.1rem;
+	background: #fff;
+}
+#main-left{
+	width: 44%;
+	height: 0.73rem;
+	float: left;
+	padding-top: 0.37rem;
+	margin-left: 0.15rem;
+}
+#main-left span{
+	display: block;
+}
+#main-shijian{
+	color: #9e9e9e;
+	font-size: 0.14rem;
+	height: 0.12rem;
+}
+#main-day{
+	font-size: 0.18rem;
+	color: #3f3f3f;
+	height: 0.16rem;
+	margin-top: 0.13rem;
+}
+#main-center{
+	width:0.40rem;
+	height: 0.48rem;
+	float: left; 
+	margin:0.24rem 0.14rem;
+	border:1px solid #9e9e9e;
+	border-radius: 0.05rem;
+	padding:0 0.10rem 0.12rem 0.10rem;
+}
+#main-center span{
+	display: block;
+}
+#main-num{
+	height: 0.2rem;
+	font-size: 0.2rem;
+	color:#f00;
+	text-align: center;
+	margin-top: 0.06rem;
+}
+.shenpi{
+	margin-top: 0.12rem;
+	font-size: 0.12rem;
+	color: #3f3f3f;
+	height: 0.12rem; 
+	text-align: center;
+}
+#main-right span{
+	display: block;
+}
+#main-right{
+	width:0.36rem;
+	height: 0.48rem;
+	float: left; 
+	margin:0.24rem 0.14rem;
+	border:1px solid #9e9e9e;
+	border-radius: 0.05rem;
+	padding:0 0.12rem 0.12rem 0.12rem;
+}
+.yuebao{
+	font-size: 0.12rem;
+	color: #3f3f3f;
+	height: 0.12rem; 
+	text-align: center;
+}
+.main-yuebao{
+	width:0.36rem;
+	height: 0.2rem; 
+	margin-top: 0.12rem;
+}
+.kongbai{
+	height: 100%;
+	height: 0.15rem;
+	border:1px solid #d4d4d4;
+	background: #eee;
+}
+.maint{
+	width: 100%;
+	height: auto;
+}
+.maint ul{
+	height: 1.13rem;
+	width: 100%;
+	text-align: center;
+}
+/*.maint p{height: 1.13rem; text-align: center;
+	border: 1px solid #eee;margin: -1px 0 0 -1px;}*/
+.maint ul li{
+	float: left;
+	width: 0.92rem;
+	height: 1.13rem;
+	border: 0.01rem solid #d4d4d4;
+	margin: -0.01rem 0 0 -0.01rem;
+	border-right: 0;
+}				
+.maint ul img{margin-top: 0.22rem;
+	height: 0.39rem}
+.maint ul span{
+	display: block;
+	margin-top: 0.10rem;
+	font-size: 0.14rem;
+	font-family: "冬青黑体简体中文";
+	color: #3f3f3f;
+}
+.main-xian{
+	height: 0.6rem;
+	float: left; 
+	border:0.01rem solid #eee;
+	background: #eee;
+	margin-top: 0.24rem;
+}

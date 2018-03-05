@@ -1,0 +1,3137 @@
+[ 2016-11-25T05:22:40+08:00 ] 42.156.251.185 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T09:51:11+08:00 ] 66.249.65.110 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载控制器:Robots.txt
+
+[ 2016-11-25T10:15:13+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305285625459921666_1480040112173&_=1480040112656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:15:13+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305285625459921666_1480040112174&_=1480040112660
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:15:15+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309769528420952089_1480040115548&_=1480040115555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-25T10:15:15+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309769528420952089_1480040115549&_=1480040115559
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:15:20+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830806968715544834_1480040120075&_=1480040120080
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+
+[ 2016-11-25T10:15:20+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery1830806968715544834_1480040120076&_=1480040120086
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:15:30+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18306135232108534427_1480040130443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+
+[ 2016-11-25T10:15:30+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306135232108534427_1480040130444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:15:34+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183037979620135965386_1480040134021
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+
+[ 2016-11-25T10:15:34+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183037979620135965386_1480040134022
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:15:43+08:00 ] 183.157.160.218 /Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:17:32+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183039361776069712007_1480040251743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:17:32+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183039361776069712007_1480040251744
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:17:37+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183022131696205118145_1480040257619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+
+[ 2016-11-25T10:17:37+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183022131696205118145_1480040257620
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:17:40+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305213575503216916_1480040260953&_=1480040260957
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+
+[ 2016-11-25T10:17:41+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305213575503216916_1480040260954&_=1480040260962
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:17:51+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18307018925292490368_1480040271134&_=1480040271148
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:17:51+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18307018925292490368_1480040271133&_=1480040271144
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-11-25T10:18:17+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309674921779497172_1480040297735&_=1480040297743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-11-25T10:18:17+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309674921779497172_1480040297736&_=1480040297799
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:18:20+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183020625515808524186_1480040300020
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-11-25T10:18:20+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183020625515808524186_1480040300021
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:18:23+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309382069516977836_1480040303191
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+
+[ 2016-11-25T10:18:23+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309382069516977836_1480040303192
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:18:28+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183040550690766619546_1480040308623
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2016-11-25T10:18:28+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183040550690766619546_1480040308624
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:19:29+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309613316165770075_1480040337096&_=1480040369322
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:19:29+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309613316165770075_1480040337095&_=1480040369309
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:19:46+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18303699756876325615_1480040386178&_=1480040386206
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+
+[ 2016-11-25T10:20:02+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18302221423810609262_1480040402782&_=1480040402800
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+
+[ 2016-11-25T10:20:03+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830010957846709504615_1480040403336&_=1480040403345
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-11-25T10:20:12+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183038673803105179105_1480040412660&_=1480040412670
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+
+[ 2016-11-25T10:20:12+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183038673803105179105_1480040412661&_=1480040412676
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:25:10+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183009277870305408364_1480040709952&_=1480040709960
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-11-25T10:25:10+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183009277870305408364_1480040709953&_=1480040709973
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:25:20+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183005281184583005305_1480040719254&_=1480040720337
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-11-25T10:25:20+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183005281184583005305_1480040719255&_=1480040720342
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:25:24+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18308417845867266761_1480040723984&_=1480040723994
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:25:24+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18308417845867266761_1480040723983&_=1480040723986
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-11-25T10:27:54+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18306723623801756018_1480040874349
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+
+[ 2016-11-25T10:27:54+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306723623801756018_1480040874350
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:30:05+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183007000289241516144_1480041005280
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:30:05+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183007000289241516144_1480041005281
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:30:24+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309418339826510522_1480041023880
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:30:24+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309418339826510522_1480041023881
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:32:49+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830704356235660508_1480041169194
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-11-25T10:32:49+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery1830704356235660508_1480041169195
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:32:54+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830533708899692904_1480041174705
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-11-25T10:32:54+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery1830533708899692904_1480041174706
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:33:36+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18309923604807125892_1480041216233
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+
+[ 2016-11-25T10:33:36+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18309923604807125892_1480041216234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:34:02+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305899967785711169_1480041242221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-11-25T10:34:02+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305899967785711169_1480041242222
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:34:03+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18308174622598059571_1480041243855
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+
+[ 2016-11-25T10:34:03+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18308174622598059571_1480041243856
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:34:12+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18306638825356984206_1480041252558
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-11-25T10:34:12+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306638825356984206_1480041252559
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:34:52+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18306330526653010684_1480041292526
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+
+[ 2016-11-25T10:34:52+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306330526653010684_1480041292527
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:34:53+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830401050058231738_1480041293856
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-11-25T10:34:53+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery1830401050058231738_1480041293857
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:35:21+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305029395350643895_1480041321154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-11-25T10:35:21+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305029395350643895_1480041321155
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:35:26+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18307051278478021621_1480041326629
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-11-25T10:35:26+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18307051278478021621_1480041326630
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:35:28+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183039808571130657144_1480041328151
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-11-25T10:35:28+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183039808571130657144_1480041328152
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:37:51+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18306332607816653273_1480041471680
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+
+[ 2016-11-25T10:37:51+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306332607816653273_1480041471681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:37:54+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305150700926890825_1480041474370
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-11-25T10:37:54+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305150700926890825_1480041474371
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:39:51+08:00 ] 183.157.160.218 /Api/Index/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+
+[ 2016-11-25T10:39:51+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183031330697040607003_1480041591867
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:39:55+08:00 ] 183.157.160.218 /Api/Index/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+
+[ 2016-11-25T10:39:55+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183014372193524532784_1480041595192
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:39:58+08:00 ] 183.157.160.218 /Api/Index/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-11-25T10:39:58+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183024956545611344905_1480041598175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:40:05+08:00 ] 183.157.160.218 /Api/Index/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-11-25T10:40:06+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183017978272302475107_1480041605891
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:40:21+08:00 ] 183.157.160.218 /Api/Index/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-11-25T10:40:21+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305596591348620517_1480041621146
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:40:59+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:40:59+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183027316153077205896_1480041659027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:23+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:25+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:26+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:41:26+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:27+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:30+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:41:30+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18304393689007299013_1480041690123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:43:30+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:43:30+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183010588816335909645_1480041810845
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-11-25T10:43:36+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:43:38+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:43:38+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18303898516920492703_1480041818517
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:43:41+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:43:41+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183040225590686930146_1480041821093
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:23+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=jQuery18304623026745753096_1480042163332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:23+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18304623026745753096_1480042163333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:25+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=jQuery183044738202687834083_1480042165011
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:25+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183044738202687834083_1480042165012
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:54+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=jQuery18307340743384772388_1480042194656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:49:54+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18307340743384772388_1480042194657
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:58+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=jQuery18306177282975582492_1480042197940
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:49:58+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18306177282975582492_1480042197941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:50:04+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=jQuery183003979960222856249_1480042204343
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:50:04+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183003979960222856249_1480042204344
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:50:50+08:00 ] 183.157.160.218 /Api/Index/get_agency_lists?callback=callbackfunc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_agency` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `p_agency` WHERE `status` = 1 ORDER BY ag_id DESC LIMIT 0,20   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:50:50+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18308953658219436771_1480042250879
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:18+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18308173452659606169_1480042338273
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-11-25T10:52:18+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18308173452659606169_1480042338274
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:22+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery1830050035118548947155_1480042342554
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+
+[ 2016-11-25T10:52:22+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery1830050035118548947155_1480042342555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:38+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305654239637404967_1480042358161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+
+[ 2016-11-25T10:52:38+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305654239637404967_1480042358162
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:45+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18304768326847429023_1480042365395
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-11-25T10:52:45+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18304768326847429023_1480042365396
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:54+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183018796649268652055_1480042374496
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-11-25T10:52:54+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183018796649268652055_1480042374497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:57+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18302321300573431666_1480042377005
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-11-25T10:52:57+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18302321300573431666_1480042377006
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:52:58+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183024977299335707692_1480042378929
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-11-25T10:52:59+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183024977299335707692_1480042378930
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T10:58:32+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery183016598962017221908_1480042712046
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+
+[ 2016-11-25T10:58:32+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery183016598962017221908_1480042712047
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:58:33+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18308254197815760236_1480042713046
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+
+[ 2016-11-25T10:58:33+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18308254197815760236_1480042713047
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:58:34+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18305140238993087536_1480042714505
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+
+[ 2016-11-25T10:58:34+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18305140238993087536_1480042714506
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:58:36+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18302168912891339274_1480042716022
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+
+[ 2016-11-25T10:58:36+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18302168912891339274_1480042716023
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T10:58:41+08:00 ] 183.157.160.218 /Api/Index/config?callback=jQuery18300851742706441132_1480042721506
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-11-25T10:58:41+08:00 ] 183.157.160.218 /Api/Index?callback=jQuery18300851742706441132_1480042721507
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T11:38:14+08:00 ] 183.157.160.218 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-11-25T11:38:20+08:00 ] 113.108.80.206 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-11-25T11:38:24+08:00 ] 183.157.160.219 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-11-25T11:38:30+08:00 ] 180.153.163.190 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-11-25T11:38:36+08:00 ] 101.226.33.221 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-11-25T11:38:37+08:00 ] 180.153.212.13 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-11-25T11:38:38+08:00 ] 101.226.33.201 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-11-25T11:38:38+08:00 ] 101.226.33.217 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-11-25T11:38:39+08:00 ] 61.151.218.118 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-11-25T11:38:39+08:00 ] 180.153.214.180 /Api/Index/accument
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: time /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 89 行.
+NOTIC: [2] file_put_contents(./access_token.txt): failed to open stream: Permission denied /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php 第 102 行.
+NOTIC: [2] Missing argument 2 for httpRequired(), called in /var/www/html/Phebe/Application/Api/Controller/BaseController.class.php on line 73 and defined /var/www/html/Phebe/Application/Common/Common/function.php 第 393 行.
+NOTIC: [8] Undefined variable: param /var/www/html/Phebe/Application/Common/Common/function.php 第 402 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [8] Undefined index: list /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/Phebe/Application/Runtime/Cache/Api/2ab3ccc235b8cd0386246e1205527a71.php 第 238 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-11-25T14:13:59+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:14:19+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:14:30+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-11-25T14:17:47+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:29:14+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:30:13+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:30:19+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:30:24+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:31:03+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:33:09+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:33:25+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:33:42+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:33:50+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:35:20+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:35:35+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:35:56+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:36:07+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:36:49+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:37:05+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:37:19+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:39:28+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:42:09+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:42:16+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:42:57+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:43:22+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:43:44+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:43:49+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:43:56+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:44:16+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:44:48+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T14:53:47+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:02:09+08:00 ] 183.157.160.218 /Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:11:00+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:16:53+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:16:59+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:17:17+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:17:38+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:29:31+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:29:40+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:31:21+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:31:38+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:32:14+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:32:55+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:34:41+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:34:58+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:38:18+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:38:27+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:38:33+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:42:38+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:43:26+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:43:55+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T15:44:03+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:46:38+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:51:11+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:51:18+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:53:35+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:54:00+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:58:17+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T15:59:32+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:00:07+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:00:35+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:01:01+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:02:39+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:02:52+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:02:58+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:03:23+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:36:06+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:36:47+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:39:43+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:40:46+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:41:13+08:00 ] 183.157.160.212 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwucnFX8DVD-svtl5_GZTbrQ' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:41:27+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:43:36+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwhZaqCBjA0EjPpAZEMbqlnQ' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:45:05+08:00 ] 183.157.160.212 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwucnFX8DVD-svtl5_GZTbrQ' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:45:31+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:45:32+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:45:32+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:45:33+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:49:54+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:03+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:07:26+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:09:16+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:09:31+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:12:46+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-11-25T17:14:33+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:14:47+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:16:09+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:16:50+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:18:06+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:25:09+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:25:49+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:26:00+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:26:04+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:33:14+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:41:58+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:42:32+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:53:03+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T17:59:19+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:04:19+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:04:32+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:10:50+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:11:04+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:12:49+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:13:19+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-11-25T18:13:23+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:13:27+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:14:42+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:15:34+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:15:52+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:16:51+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:16:54+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:17:18+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:17:51+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:19:32+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:20:10+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:20:23+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:22:48+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:22:55+08:00 ] 183.157.160.219 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwnEBZncgOKlVrV5dLq5lB5U' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:23:56+08:00 ] 124.160.219.162 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:24:12+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:24:58+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:25:40+08:00 ] 183.157.160.218 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwgf95-5daaVueoRhXBEsI8Y' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:28:04+08:00 ] 211.138.116.163 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwqIceYt0C8mQ3do8q8Dzxbg' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:29:55+08:00 ] 211.138.116.163 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwqIceYt0C8mQ3do8q8Dzxbg' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:33:47+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:34:24+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T18:34:49+08:00 ] 101.226.102.60 /Api/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SHOW COLUMNS FROM `p_users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_users` WHERE `is_checked` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p_wechat_users` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p_wechat_users` WHERE `openid` = 'obvQHwlF3Sh1CE0VclnLZO6pC0w0' LIMIT 1   [ RunTime:0.0002s ]
+

@@ -1,0 +1,71 @@
+.search-input{
+	height:0.3rem;
+	padding:0.1rem 0.1rem;
+	background: #eee;
+	overflow: hidden;
+}
+.search-input input{
+	width: 83%;
+	height:0.3rem;
+	float: left;
+	background: #fff;
+	font-size: 0.13rem;
+	color: #7d7d7d;
+	text-align: center;
+	line-height: 0.2rem;
+	border:0;
+	border-radius: 0.05rem;
+	outline:medium; 
+}
+.search-input img{
+	float: right;
+	width: 0.3rem;
+	margin-right: 0.1rem;
+}
+.teacher-information{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: #fff;
+}
+.teacher-information li{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.teacher-information li span{
+	float: left;
+	font-size: 0.16rem;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.teacher-skill{
+	width: 15%;
+	height: 0.2rem;
+	/*padding: 0.16rem 0.1rem;*/
+	border:0.01rem solid #55c5d5;
+	color: #55c5d5;
+	line-height: 0.2rem;
+	border-radius: 0.05rem;
+	text-align: center;
+	margin:0 0.16rem;
+}
+.teacher-name{
+	width: 20%;
+	height: 0.21rem;
+	line-height: 0.21rem;
+	color: #3f3f3f;
+	text-align: center;
+}
+.teacher-call{
+	width: 50%;
+	height: 0.21rem;
+	color: #3f3f3f;
+	text-align: right;
+}
+.teacher-information li img{
+	float: left;
+	width: 5%;
+	height: 0.21rem;
+	margin-top: 0.2rem;
+}

@@ -1,0 +1,95 @@
+<html>
+<script>
+
+api.ajax({
+	url: 'ajax_url',
+	method: 'post',
+	timeout: 30,
+	dataType: 'json',
+	returnAll:false
+},function(ret,err){
+	if (ret) {
+		// TODO 
+	} else {
+		api.alert({
+			msg:('错误码：'+err.code+'；错误信息：'+err.msg+'网络状态码：'+err.statusCode)
+		});
+
+	};
+});
+api.alert({
+	title: 'title', 
+	msg: 'msg_content'
+});
+
+
+api.toast({
+		msg: 'msg',
+		duration: 2000,
+		location: 'bottom'
+});
+
+
+touchID.verify(function(ret, err) {
+	if (ret.status) {
+		api.alert({
+			msg: "验证通过"
+		});
+	} else {
+		if (ret.index == 0) {
+			api.alert({
+				msg: "用户选择手动输入"
+			});
+		} else if (ret.index == 1) {
+			api.alert({
+				msg: "用户取消验证"
+			});
+		} else if (ret.index == 2) {
+			api.alert({
+				msg: "验证三次失败"
+			});
+		} else if (ret.index == 3) {
+			api.alert({
+				msg: "多长验证失败请锁定手机"
+			});
+		} else {
+			api.alert({
+				msg: "验证失败，未知错误"
+			});
+		}
+	}
+});
+
+
+api.openSlidLayout ({
+	type: 'all',
+	leftEdge:80,
+	rightEdge:60,
+	fixedPane: {
+		name: 'win1', 
+		url: 'win1.html', 
+		bgColor: '#fff', 
+		bounces:true,
+		vScrollBarEnabled:true,
+		hScrollBarEnabled:false
+	},
+	slidPane: {
+		name: 'win2', 
+		url: 'win2.html', 
+		bgColor: '#fff', 
+		bounces:true,
+		vScrollBarEnabled:true,
+		hScrollBarEnabled:false
+	}
+}, function(ret){
+	var type = ret.type;
+	if (type == 'left') {
+
+	} else {
+
+	}
+});
+
+
+</script>
+</html>

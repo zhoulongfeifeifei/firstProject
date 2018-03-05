@@ -1,0 +1,24 @@
+#qrcode_img{
+	width:100%;
+}
+
+.user_name{
+	text-align: center;
+	font-size:30px;
+	line-height: 40px;
+}
+.users_avatat{
+	width:100%;
+}
+.users_avatat img{
+	display:block;
+	width:15%;
+	margin-left:43%;
+	margin-top:40%;
+	position: absolute;
+	border-radius:5px;
+	border:2px solid #fff;
+}
+.padding-menu{
+	padding-bottom:50px;
+}
